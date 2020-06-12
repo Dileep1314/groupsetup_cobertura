@@ -1,0 +1,25 @@
+{
+"_id":"",
+"screen":"grossLetter",
+  "grossSubmit": {
+    "authorizationId": "1",
+	"grossId":"",
+    "brokerAccess": {
+      "haveAccess": "Yes/No"
+    },
+    "grammLeachBilley": {
+      "isChecked": "true/false"
+    },
+    "ICNotice": {
+      "isChecked": "true/false"
+    },
+    "grossUpLetter": {
+      "isChecked": "true/false",
+      "date": "",
+      "time": ""
+    },
+   "isSubmitted":"yes/no"
+  }
+}
+
+

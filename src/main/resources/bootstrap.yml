@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: metlife-smd-gssp-groupsetup-service
+  profiles: dev,int,qa,prod,int2
+  cloud:
+    config:
+      enabled: true
+      discovery:
+        enabled: true
+      fail-fast: true
+
+server:
+  port: 8080
+
+eureka:
+  client:
+    enabled: true
+    serviceUrl:
+      defaultZone: "${EUREKAURL}"
+    register-with-eureka: true
+  instance:
+    hostname: "${HOSTNAME}"
+    instanceId: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+    preferIpAddress: true
+    nonSecurePort: 8080
+    securePort: 8080

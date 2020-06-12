@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+
+  <Appenders>
+    <Console name="STDOUT" target="SYSTEM_OUT">
+        <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS}|$${sys:PID}|%-10t|%-5level|%-100.100c|%msg%n"/>
+    </Console>
+  </Appenders>
+    <Loggers>
+      <AsyncRoot level="INFO">
+      	<AppenderRef ref="STDOUT"/>
+      </AsyncRoot>
+    </Loggers>
+</Configuration>

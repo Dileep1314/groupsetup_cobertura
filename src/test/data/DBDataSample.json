@@ -1,0 +1,702 @@
+{
+
+	"licensingCompensableCode": {
+		"writingProducers": [{
+			"firstName": "",
+			"lastName": "",
+			"email": "",
+			"roleType": "",
+			"comissionSplitValue": "",
+			"isVerifyStatusCode": "",
+			"compensableCode": [{
+					"producerName": "",
+					"brokerCode": "",
+					"organizationName": "",
+					"businessAddress": {
+						"addressLine1": "",
+						"addressLine2": "",
+						"city": "",
+						"state": "",
+						"zip": ""
+					},
+					"paymentAddress": {
+						"addressLine1": "",
+						"addressLine2": ""
+					},
+					"isInformationInaccurate": "",
+					"isSelected": "false"
+				},
+				{
+					"producerName": "",
+					"brokerCode": "",
+					"organizationName": "",
+					"businessAddress": {
+						"addressLine1": "",
+						"addressLine2": "",
+						"city": "",
+						"state": "",
+						"zip": ""
+					},
+					"paymentAddress": {
+						"addressLine1": "",
+						"addressLine2": ""
+					},
+					"isInformationInaccurate": "false"
+				}
+			],
+			"tpaFeeRemittance": "",
+			"writingProducerId": "",
+			"taxId": "",
+			"principleOfficer": "",
+			"TIN": "",
+			"SSN": "",
+			"licenseNumber": "",
+			"nationalInsuranceProducerRegistry": "",
+			"nationalProducerNumber": "",
+			"sponsership": ""
+		}]
+	},
+	"clientInfo": {
+		"basicInfo": {
+			"isLegalGroupNameDifferent": "",
+			"legalGroupName": "",
+			"doingBusinessAs": "",
+			"customerOrganizationType": "",
+			"federalTaxId": "",
+			"effectiveDate": "MM/DD/YYYY",
+			"primaryAddress": {
+				"addressLine1": "",
+				"addressLine2": "",
+				"city": "",
+				"state": "",
+				"zipCode": "",
+				"situsState": ""
+			},
+			"isSeparateCorrespondenceAddress": "",
+			"correspondenceAddress": {
+				"addressLine1": "",
+				"addressLine2": "",
+				"city": "",
+				"state": "",
+				"zipCode": ""
+			}
+		},
+		"contributions": {
+			"products": [{
+				"classList": [{
+						"classID": "",
+						"classDesc": ""
+					},
+					{
+						"classID": "",
+						"classDesc": ""
+					}
+				],
+				"provisions": [{
+						"provisionName": "",
+						"provisionValue": "",
+						"classID": ""
+					},
+					{
+						"provisionName": "",
+						"provisionValue": "",
+						"classID": ""
+					}
+				],
+				"productCode": "Accident"
+			}]
+		},
+		"erisa": {
+			"policyCoveredUnderSection125": "",
+			"isERISALanguageIncludedInCertificate": "",
+			"planYearEnds": "Fiscal Year",
+			"fiscalYearMonth": "",
+			"effectiveDate": "MM/DD/YYYY",
+			"calculatedYear": ""
+		}
+	},
+	"riskAssessment": {
+		"pregnantEmployeeDetails": {
+			"questions": [{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"any"
+					]
+				}
+			]
+		},
+		"healthRisk": {
+			"questions": [{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"any"
+					]
+				}
+			]
+		},
+		"disabledEmployees": {
+			"questions": [{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"any"
+					]
+				},
+				{
+					"question": "",
+					"answer": "",
+					"isMandatory": "",
+					"sequenceNo": "",
+					"listOfAllowedResponses": [
+						"",
+						"No"
+					]
+				}
+			],
+			"disableEmployeeDetails": [{
+				"dateOfBirth": "",
+				"dateOfDisability": "",
+				"natureOfClaim": "",
+				"estimatedDateOfReturn": "",
+				"BenefitAmount": "string"
+			}]
+		},
+		"riskAssesmentAcknowledgement": {
+			"isChecked": "",
+			"acceptedBy": "",
+			"date": "MM/DD/YYYY",
+			"time": "HH:MM"
+		}
+	},
+	"comissionAcknowledgement": [{
+		"experienceNumber": "",
+		"effectiveDate": "",
+		"situsState": "",
+		"comissionRate": [{
+			"productName": "",
+			"commissionType": "",
+			"commissionRate": "",
+			"splitComission": ""
+		}],
+		"brokerDetails": {
+			"brokerId": "",
+			"brokerCode": "",
+			"brokerEmailId": ""
+		},
+		"payeeDetails": {
+			"payeName": "",
+			"payeeBrokerCode": "",
+			"payeeAddress": {
+				"addressLine1": "",
+				"addressLine2": "",
+				"city": "",
+				"state": "",
+				"zipCode": ""
+			}
+		},
+		"comissionDisclosureChecked": "",
+		"acknowledgmentChecked": "",
+		"acceptedBy": "loggedIn User",
+		"date": "MM/DD/YYYY",
+		"time": "HH:MM"
+	}],
+	"renewalNotificationPeriod": {
+		"renewalNoticeSent": "30"
+	},
+	"groupStructure": {
+		"newClassAdded": "",
+		"classDefinition": [{
+			"mode": "",
+			"existingClassName": "",
+			"existingClassDescription": "",
+			"newClassName": "",
+			"newClassDescription": "",
+			"classDescription": {
+				"jobTitle": [{
+					"title": "",
+					"isChecked": "string"
+				}],
+				"customDescription": ""
+			},
+			"fullTimeHours": "",
+			"partTimeHours": "",
+			"earningDefinition": "",
+			"earningInclude": "",
+			"avagragedOverPeriod": "",
+			"waiveWaitingPeriod": "",
+			"sameWatingPeriodforProduct": "",
+			"productDetails": [{
+				"productName": "",
+				"waitingTime": "",
+				"period": "string"
+			}],
+			"extention": {}
+		}],
+		"locations": [{
+			"locationName": "",
+			"taxId": "",
+			"addressLine1": "",
+			"addressLine2": "",
+			"city": "",
+			"state": "",
+			"zipCode": "",
+			"situsState": "",
+			"activeParticipants": "",
+			"numberOfParticipants": "string"
+		}],
+		"billing": {
+			"thirdPartyInvolved": "",
+			"billingAddress": [{
+				"isPrimaryAddress": "",
+				"addressLine1": "",
+				"addressLine2": "",
+				"city": "",
+				"state": "",
+				"zipCode": "string"
+			}]
+		},
+		"departments": [{
+			"departmentDescription": "",
+			"departmentCode": "string"
+		}],
+		"contact": [{
+			"firstName": "",
+			"lastName": "",
+			"email": "",
+			"workPhone": "",
+			"cellPhone": "",
+			"fax": "",
+			"requireOnlineAccess": "",
+			"isExecutiveSameForAllRole": "",
+			"roleTypes": [{
+				"roleType": "",
+				"roleUniqueId": "",
+				"roleValue": "string"
+			}]
+		}],
+		"buildCaseStructure": [{
+			"location": {
+				"locationName": "",
+				"taxId": "",
+				"addressLine1": "",
+				"addressLine2": "",
+				"city": "",
+				"state": "",
+				"zipCode": "",
+				"situsState": "",
+				"activeParticipants": "",
+				"numberOfParticipants": "string"
+			},
+			"entityAddress": {
+				"isPrimaryAddress": "",
+				"addressLine1": "",
+				"addressLine2": "",
+				"city": "",
+				"state": "",
+				"zipCode": "string"
+			},
+			"departments": [{
+				"departmentDescription": "",
+				"departmentCode": "string"
+			}],
+			"contacts": [{
+				"firstName": "",
+				"lastName": "",
+				"email": "",
+				"workPhone": "",
+				"cellPhone": "",
+				"fax": "",
+				"requireOnlineAccess": "",
+				"isExecutiveSameForAllRole": "",
+				"roleTypes": [{
+					"roleUniqueId": "",
+					"roleValue": "",
+					"roleType": "string"
+				}]
+			}]
+		}],
+		"subGroup": [{
+			"subGroupNumber": "",
+			"buildCaseStructure": {
+				"location": {
+					"locationName": "",
+					"taxId": "",
+					"addressLine1": "",
+					"addressLine2": "",
+					"city": "",
+					"state": "",
+					"zipCode": "",
+					"situsState": "",
+					"activeParticipants": "",
+					"numberOfParticipants": "string"
+				},
+				"entityAddress": {
+					"isPrimaryAddress": "",
+					"addressLine1": "",
+					"addressLine2": "",
+					"city": "",
+					"state": "",
+					"zipCode": "string"
+				},
+				"departments": [{
+					"departmentDescription": "",
+					"departmentCode": "string"
+				}],
+				"contacts": [{
+					"firstName": "",
+					"lastName": "",
+					"email": "",
+					"workPhone": "",
+					"cellPhone": "",
+					"fax": "",
+					"requireOnlineAccess": "",
+					"isExecutiveSameForAllRole": "",
+					"roleTypes": [{
+						"roleUniqueId": "",
+						"roleValue": "",
+						"roleType": "string"
+					}]
+				}]
+			},
+			"assignClassLocation": [{
+				"classId": "string"
+			}]
+		}],
+		"productList": [{
+			"productName": ""
+		}]
+	},
+	"billing": {
+		"deliveryMethod": "",
+		"billType": "",
+		"premiumPayment": "",
+		"premiumAmount": "",
+		"paymentMode": "",
+		"paymentMethod": "",
+		"acknowledgementIsChecked": ""
+	},
+	"authorization": {
+		"grossSubmit": {
+			"grammLeachBilley": {
+				"isChecked": ""
+			},
+			"ICNotice": {
+				"ICNoticeChecked": "",
+				"isChecked": ""
+			},
+			"grossUpLetter": {
+				"LTDorSTD": "",
+				"isChecked": "",
+				"date": "mm/dd/yyyy",
+				"time": "hh:mm"
+			},
+			"onlineAccess": {
+				"agentHaveAccess": "",
+				"brokerHaveAccess": "",
+				"tpaHaveAccess": "",
+				"documentDeliveryPreference": "",
+				"emailId": "",
+				"address": {
+					"addressLine1": "",
+					"addressLine2": "",
+					"city": "",
+					"state": "",
+					"zip": ""
+				}
+			}
+		},
+		"tpBilling": {
+			"customerRepersentative": {
+				"firstName": "",
+				"middleName": "",
+				"lastName": "",
+				"title": "",
+				"email": ""
+			},
+			"eSignAcceptence": "",
+			"acceptedBy": "",
+			"date": "mm/dd/yyyy",
+			"time": "hh:mm",
+			"isSubmitted": ""
+		},
+		"HIPAA": {
+			"PHIInformationAccess": "",
+			"claimAccess": "",
+			"authorizationRequest": {
+				"employeeTitle": [{
+					"title": "",
+					"otherIdentifier": "NA"
+				}],
+				"fileDetails": [{
+					"documentId": "",
+					"content": "This is a document",
+					"format": "BASE64",
+					"fileName": "",
+					"fileExtention": "jpg"
+				}],
+				"includePrivacyOfficer": "",
+				"includeParticipantsRights": "",
+				"includePrivicyIssues": "",
+				"eSignAcceptence": "",
+				"acceptedBy": "",
+				"date": "mm/dd/yyyy",
+				"time": "hh:mm",
+				"isSubmitted": ""
+			}
+		},
+		"disabilityTaxation": {
+			"issueDisability": [{
+					"STD": "Customer/Metlife"
+				},
+				{
+					"LTD": "Customer/Metlife"
+				}
+			],
+			"payrollVendor": "",
+			"termConditionChecked": ""
+		},
+		"portabilityTrust": "",
+		"noClaims": {
+			"claimsIncurred": "",
+			"termConditionChecked": "",
+			"claimInformation": [{
+				"product": "",
+				"dateofClaim": "mm/dd/yyyy",
+				"natureofClaim": "",
+				"additionalComments": "Not Required"
+			}]
+		},
+		"masterApp": {
+			"groupName": "",
+			"eligibleLives": "",
+			"OrganizationLegalName": "",
+			"federalTaxId": "",
+			"contact": [{
+				"firstName": "",
+				"lastName": ""
+			}],
+			"addressGlobal": {
+				"addressLine1": "",
+				"addressLine2": "",
+				"city": "",
+				"zip": "",
+				"policySitus": ""
+			},
+			"effectiveDateGlobal": "",
+			"employeesMembersCoverage": [{
+				"nameCode": ""
+			}],
+			"dependentsCoverage": [{
+				"nameCode": ""
+			}],
+			"monthlyGLOBAL": "",
+			"quarterlyGLOBAL": "",
+			"annuallyGLOBAL": "",
+			"otherGLOBAL": "",
+			"otherDetailsGLOBAL": "",
+			"advancedPaymentGLOBAL": "",
+			"city": "",
+			"state": "",
+			"date": "",
+			"time": "HH:MM",
+			"nameOfApplicant": "",
+			"titleOfAuthorizedSignature": "",
+			"accountExecutive": {
+				"firstName": "",
+				"lastName": "",
+				"printTypeCode": "",
+				"licenseNumber": ""
+			},
+			"initialApplication": "",
+			"rateGurantee": "",
+			"customerType": "",
+			"multiSiteLocationCovered": [{
+				"locationName": ""
+			}],
+			"stateFooter": ""
+		},
+		"isSubmitted": ""
+	},
+	"extension": {
+		"rfpId": "",
+		"groupNumber": "",
+		"compayName": "",
+		"companyID": "",
+		"groupSetUpStatus": "",
+		"uniqueId": "",
+		"eligibleLives": "",
+		"sicCode": "",
+		"sicDescription": "",
+		"numberOfLocations": "",
+		"numberOfProducts": "",
+		"products": [{
+			"provisions": [{
+				"provisionValue": "",
+				"provisionName": "string"
+			}],
+			"productCode": "",
+			"classList": [{
+				"classID": "",
+				"classDesc": "string"
+			}]
+		}]
+	}
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+      "properties": {
+      	 "product": {
+          "$ref": "product.json#"
+        },
+        "categoryCode": {
+          "type": "string"
+        },
+        "typeCode": {
+          "type": "string",
+          "enum": ["101"]
+        },
+        "creatorNumber": {
+          "type": "string"
+        },
+        "creatorTypeCode": {
+          "type": "string",
+          "enum": ["100","200"]
+        }, 
+        
+        "extension": {
+          "$ref": "extension.json#"
+        }
+      }
+}

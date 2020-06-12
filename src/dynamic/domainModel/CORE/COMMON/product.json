@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+  	"number": {
+      "type": "string"
+    },
+    "typeCode": {
+      "type": "string",
+      "enum": ["100"]
+    },
+    "nameCode": {
+      "type": "string",
+      "enum": ["101","1402"]
+    }
+  }
+}

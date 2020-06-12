@@ -1,0 +1,64 @@
+{
+  "proposals": [
+      {
+        "number": "Cust1",
+        "typeCode": "string", 
+        "description": "accountExecutive",
+        "entryDate": "10/10/2019",
+		"soldDate" : "10/10/2019",
+        "entryTime": "09:50:10", 
+        "statusCode": "Active",
+        "extension": {
+          "name": "Company Name",
+          "typeCode": "string",
+          "nameCode": "string"
+        },
+		"assignedAccess":[
+		{
+			"proposalId": "proposal1",
+			"rollType" : "EMPLOYER",
+			"firstName" : "Emp1",
+			"lastName" : "Last1",
+			"emailAddress" : "emp1@ibm.com"
+		},
+		{
+			"proposalId": "proposal1",
+			"rollType" : "BROKER",
+			"firstName" : "Br1",
+			"lastName" : "Last1",
+			"emailAddress" : "br1@ibm.com"
+		}
+		]
+      },
+	  {
+        "number": "Cust2",
+        "typeCode": "string", 
+        "description": "accountExecutive",
+        "entryDate": "10/10/2019",
+		"soldDate" : "10/10/2019",
+        "entryTime": "09:50:10", 
+        "statusCode": "Active",
+        "extension": {
+          "name": "Company Name",
+          "typeCode": "string",
+          "nameCode": "string"
+        },
+		"assignedAccess":[
+		{
+			"proposalId": "proposal2",
+			"rollType" : "EMPLOYER",
+			"firstName" : "Emp1",
+			"lastName" : "Last1",
+			"emailAddress" : "emp1@ibm.com"
+		},
+		{
+			"proposalId": "proposal1",
+			"rollType" : "BROKER",
+			"firstName" : "Br1",
+			"lastName" : "Last1",
+			"emailAddress" : "br1@ibm.com"
+		}
+		]
+      }
+    ]
+}

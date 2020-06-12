@@ -1,0 +1,24 @@
+{
+	"items": [{
+		"item": {
+			"rfpId": "string",
+			"rfpType": "string",
+			"structureEffectiveDate": "01/23/2020",
+			"structureProcessingDate": "string"
+		}
+	},{
+		"item": {
+			"rfpId": "string",
+			"rfpType": "string",
+			"structureEffectiveDate": "03/14/2022",
+			"structureProcessingDate": "string"
+		}
+	},{
+		"item": {
+			"rfpId": "string",
+			"rfpType": "string",
+			"structureEffectiveDate": "01/05/2020",
+			"structureProcessingDate": "string"
+		}
+	}]
+}

@@ -1,0 +1,24 @@
+{
+    "masterAppInfo": {
+        "groupDetails": {
+            "initialPayment": "6722",
+            "fullLegalName": "Smith",
+            "situsStatus": "Active",
+            "premiumData": "78278",
+            "coverageData": [
+                {
+                    "productName": "Dental",
+                    "dependentProductName": "Accidental"
+                }
+            ],
+            "primaryAddress": {
+                "zipcode": "37672",
+                "city": "LA",
+                "addressLine1": "Street 1",
+                "addressLine2": "Roger Road",
+                "state": "CA"
+            },
+            "effectiveDate": "12/10/1991"
+        }
+    }
+}

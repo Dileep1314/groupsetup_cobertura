@@ -1,0 +1,11 @@
+{
+ "customerNumber":"0109751",
+ "extension": {
+    "sourceSystemName": "SMD",
+    "searchTypeCode": "MGI"
+  },
+  "metadata": {
+    "limit": 100,
+    "offset": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "tpBilling": {
+    "authorizationId": "2",
+    "tpBillingId": "",
+    "customerRepersentative": {
+      "firstName": "",
+      "middleName": "",
+      "lastName": "",
+      "title": "",
+      "email": ""
+    },
+    "eSignAcceptence": "",
+    "acceptedBy": "",
+    "date": ""
+  }
+}

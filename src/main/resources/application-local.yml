@@ -1,0 +1,166 @@
+#Local-only config
+componentScan:
+  basePackages:
+    com.metlife.gssp.resources,
+    com.metlife.config,
+    com.metlife.gssp.persistence,
+    com.metlife.gssp.repo,
+    com.metlife.service,
+    com.metlife.gssp.common.controller,
+    com.metlife.gssp.common.utils,
+    com.metlife.gssp.configuration,
+    com.metlife.gssp.sample
+
+source: FILE
+groovyPath: src/dynamic/workflow/groovy
+jsonPath: src/dynamic/config/json
+domainModelConfigPath: src/dynamic/domainModel
+ 
+#desired service registrations for local development
+accountService:
+  templateConfigServiceVip: metlife-gssp-template-configuration-service
+  maintenanceServiceVip: smd-gssp-orgmaintenance-service
+  requoteServiceVip: metlife-smd-gssp-quote-service
+  viewUpdaterServiceVip: metlife-gssp-view-updater-service
+
+edpm:
+  userId: WSUSER_GSSP
+  password: /{SSHA}nlULXRo6beAuoFcoAJ7vARCOGfob2UA1o8vxNw==
+
+useEurekaForEIP: false
+eip:
+  eureka:
+    vipAddress: metlife-smd-gssp-groupsetup-service
+  non-eureka:
+    ribbonClientName: eipservice
+
+eipservice:
+  ribbon:
+    IsSecure: false
+    listOfServers: http://localhost:3000
+    ReadTimeout: 20000
+    ConnectTimeout: 10000
+    MaxAutoRetries: 2
+  
+# APMC properties
+apmc:
+  organization: SMD
+  application:  smd
+  clientId: 98a83871-622b-4ba6-b7e0-c9c390854d05  
+  url: https://dev.api.metlife.com/metlife/development/authorization/token  
+  serviceId: APIC
+  username: AT1138801 #Dev
+  password: Rarf5ido #Dev
+  tenantId: SMD
+  UserId: MGI
+  Password: allow_mgi
+  XgssptrackingId: NA
+  
+apiConnect: true
+apptenantId: SMD
+tenantId: SMD
+
+spiservice:
+  ribbon:
+    IsSecure: true
+    listOfServers: datapower:30003
+    ReadTimeout: 120000
+    MaxAutoRetries: 2   
+
+#SPI properties
+spi:
+  ribbonClient: dev.api.metlife.com #spiservice
+  baseAddress: datapower:30003
+  authEnabled: true
+  #prefix: /metlife/development/customerServices/api/v1
+  prefix: /spi/v2
+  ERLprefix: /metlife/development/channel/retailmessaging/AdvisorService/api/v1
+  GBRprefix: /metlife/development/channel/gvwb/intermediaryServices/api/v1   
+  DMFSearchprefix: /metlife/development/dms/v2/searches/documents
+  DMFGetprefix: /metlife/development/dms/v2/documents
+  EDPMprefix: /metlife/development/userServices/api/v2/users
+  AEPrefix: /metlife/development/SmallMarketDigital/v1/license/findNumber
+  iibPrefix: localhost 
+#redis cache server
+application:
+  cache:
+    host: localhost
+    port: 6379
+    ttl: 1800
+
+
+#mongo db properties for db connectivity
+mongodatabase:
+  commonLookUpDb: gssp_mongodb
+  userName: 
+  password: 
+  listOfServers: localhost:27017
+  #listOfServers: 172.26.60.105:27017
+  #listOfServers: 172.26.60.69:27017
+  #listOfServers: 172.26.60.61:27017
+  authSource: admin
+  replicaSetName:
+
+spring:
+  application:
+    name: metlife-smd-gssp-groupsetup-service
+  cloud:
+    config:
+      enabled: false
+      discovery:
+        enabled: false
+      fail-fast: false
+
+server:
+  port: 3255
+
+eureka:
+  client:
+    enabled: true #true
+    serviceUrl:
+     # defaultZone:  http://172.26.60.5:8761/eureka/
+      defaultZone: http://localhost:8761/eureka/
+    register-with-eureka: true #true
+
+#rabbit mq properties for amqp connectivity
+rabbitmq:
+  addresses:
+    172.26.60.5
+  port:
+    5672
+  username:
+    guest
+  password:
+    guest
+  audit:
+    logger:
+      message:
+        queue:
+          name:
+            myAnonymousQueue
+        exchange:
+          name:
+            TUTORIAL-EXCHANGE
+      microservice:
+        sender:
+          routing:
+            key:
+              my.routingkey.1
+        listener:
+          pattern:
+            my.routingkey.1
+
+ribbon:
+  maxAutoRetries: 1
+  MaxAutoRetriesNextServer: 2
+  ConnectTimeout: 200000
+  ReadTimeout: 300000
+  
+datapower:
+  isEnabled: true
+ 
+gssp:
+  headers: X-GSSP-Transaction-ID,initiatorSystemName,initiatorSystemVersion,x-gssp-clientid,x-gssp-functionid,x-gssp-tenantid,x-spi-service-id,x-gssp-trace-id,X-IBM-Client-Id,Authorization,x-gssp-tracking-id
+
+logging:
+  config: classpath:log4j2-dev.xml

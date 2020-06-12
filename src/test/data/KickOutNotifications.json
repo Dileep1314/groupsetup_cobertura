@@ -1,0 +1,49 @@
+
+{
+  "kickOutResult": {
+    "resultId": "",
+    "result": true,
+    "ras": [
+      {
+        "uwDecision": "Approved",
+        "uwReason": "Approved by UW",
+        "productCode": "BSCL"
+      },
+      {
+        "uwDecision": "Decline",
+        "uwReason": "Due to Medical reason",
+        "productCode": "OPTL"
+      }
+    ],
+    "billClass": [
+      {
+        "uwDecision": "Decline",
+        "billClass": "Research"
+      },
+      {
+        "uwDecision": "Approved",
+        "billClass": "Logistics"
+      }
+    ],
+    "noclaims": {
+      "filteredProduct": [
+        {
+          "uwDecision": "Approve",
+          "uwReason": "Test Comments",
+          "productCode": "LTD"
+        },
+        {
+          "uwDecision": "Update Effective Date",
+          "uwReason": "Effective Date changed",
+          "productCode": "STD"
+        },
+        {
+          "uwDecision": "Decline",
+          "uwReason": "Declined by UW",
+          "productCode": "MGD"
+        }
+      ],
+      "newGroupEffectiveDate": "2017/07/06"
+    }
+  }
+}

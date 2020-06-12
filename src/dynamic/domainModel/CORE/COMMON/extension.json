@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+  	"transactionNumber": {
+      "type": "string"
+    },
+    "isUnderwritingRequired": {
+      "type": "boolean"
+    },
+    "accountNumber": {
+      "type": "string"
+    },
+    "effectiveDate": {
+      "type": "string" 	
+    },
+    "requestedDate": {
+      "type": "string"
+    },
+   "changeInPremiumAmount": {
+         "$ref": "file:${deploy.path}/src/dynamic/domainModel/CORE/COMMON/amount.json"
+        },
+   "totalPremium": {
+         "type": "object",
+		  "properties": {
+		  	"paymentFrequencyCode": {
+      			"type": "string"
+   			 },
+		    "premiumAmount": {
+         		"$ref": "file:${deploy.path}/src/dynamic/domainModel/CORE/COMMON/amount.json"
+        	}	
+		  }
+        },
+    "coverageChangeRequests": {
+          "type": "array",
+      "items": { "$ref": "file:${deploy.path}/src/dynamic/domainModel/CORE/COMMON/coverageChange.json"}
+        },
+    "riderChangeRequests": {
+            "type": "array",
+      "items": {
+      	 "$ref": "file:${deploy.path}/src/dynamic/domainModel/CORE/COMMON/coverageChange.json"
+		  }
+        }
+}
+}

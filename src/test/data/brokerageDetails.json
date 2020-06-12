@@ -1,0 +1,17 @@
+{
+    "items": [
+        {
+            "id": 116424657,
+            "firmName": "EUCLID",
+            "partyType": "TPA",
+            "activeStatus": "YES",
+            "taxId": "362533337",
+            "payeeBrokerCode": "BKC1007778",
+            "upiCode": "1000033054",
+            "allianceCode": "T00201",
+            "mgiOnboarded": "YES",
+            "subDistributionChannelId": "34",
+            "writingProducerID": "BKR4035780"
+        }
+    ]
+}

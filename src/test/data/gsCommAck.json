@@ -1,0 +1,30 @@
+{
+	"groupNumber": "12345",
+	"noOfEligibleLives": "",
+	"sicCode": "1234",
+	"companyName": "IBM INDIA",
+	"effectiveDate": "02/22/2018",
+	"address": {
+		"number": "12345",
+		"typeCode": "typeCode",
+		"addressLine1": "Manyata D4",
+		"addressLine2": "8th Floor",
+		"city": "Banglore",
+		"postalCode": "5600024",
+		"stateCode": "23423",
+		"countryCode": "1234"
+	},
+	"brokerDetails": {
+		"brokerCode": "529",
+		"brokerEmailAddress": "broker@gmail.com",
+		"payeeName": "Peter Parker",
+		"payeeBrokerCode": "510",
+		"vpSignature": "Mark"
+	},
+	"commisionDetails": [{
+		"productName": "Dental",
+		"commissionType": "Flat Percentage",
+		"commissionRate": "10",
+		"splitCommission": "10"
+	}]
+}

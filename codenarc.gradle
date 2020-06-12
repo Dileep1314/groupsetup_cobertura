@@ -1,0 +1,9 @@
+apply plugin: 'codenarc'
+
+codenarc {
+  reportFormat = "html"
+}
+
+codenarcTest {
+  include("")
+}

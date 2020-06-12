@@ -1,0 +1,38 @@
+{
+	"riskAssessment": {
+		"_id": "1234",
+		"pregnantEmployeeDetails": {
+			"companyName": "IBM",
+			"eligibleLives": "5",
+			"anyPregnantEmployees": "",
+			"pregnantEmployeesNumber": ""
+		},
+		"healthRisks": {
+			"companyName": "IBM",
+			"eligibleLives": "12",
+			"anyEmployeesWithHealthRisks": "1",
+			"disclaimer": "",
+			"questions": [
+				{
+					"question": "",
+					"isChecked": ""
+				}
+			],
+			"otherQuestionText": ""
+		},
+		"disabledEmployees": {
+			"anyDisabledEmployees": "YES",
+			"numberOfDisabledEmployees": "10",
+			"anyPremiumWaiverAndTerminalLiability": "",
+			"disableEmployeeDetails": [
+				{
+					"dateOfBirth": "02-03-1990",
+					"dateOfDisability": "1-1-2011",
+					"natureOfClaim": "",
+					"estimatedDateOfReturn": "",
+					"BenefitAmount": ""
+				}
+			]
+		}
+	}
+} 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+
+  <Appenders>
+    <Console name="STDOUT" target="SYSTEM_OUT">
+        <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS}|$${sys:PID}|%t|%-5level|%C|%msg%n"/>
+        <!-- %d %-5p [%t] %C %M() %m%n -->
+    </Console>
+	<Http name="http-input"
+          url="http://localhost:8088"
+          token="35677472-AE67-41CE-B44C-20785A9CF5AF"
+          index="main"
+          source="http-event_metlife-microservice-name" 
+          sourcetype="GSSPMicroservice"
+          middleware="HttpEventCollectorMiddleware"
+          batch_interval="500" 
+          disableCertificateValidation="true">
+           <!--  batch_size_bytes="1024" // max # of size of batch 
+             batch_size_count="50" // max # of events to send in batch (default 10)
+             batch_interval="1000" // interval in ms at which we send events -->  
+          <PatternLayout pattern="date=%d{yyyy-MM-dd HH:mm:ss.SSS}|serviceTrxId=%X{serviceTrxId}|pid=$${sys:PID}|thread=%-10t|level=%-5level|logger=%-100.100c|logMessage=%m"/>
+      <ThresholdFilter level="INFO" onMatch="ACCEPT" onMismatch="DENY"/> <!-- No need to send trace/debug events to splunk, even locally -->
+    </Http>
+    <File name="File-Appender" fileName="/gssp/logs/metlife-microservice-name.log" >
+        <PatternLayout>
+            <pattern>
+                %d{yyyy-MM-dd HH:mm:ss.SSS}|$${sys:PID}|%t|%-5level|%C|%msg%n
+            </pattern>
+        </PatternLayout>
+    </File>
+  </Appenders>
+    <Loggers>
+      <Root level="INFO">
+      	<AppenderRef ref="STDOUT"/>
+      	<AppenderRef ref="File-Appender"/>
+      </Root>
+      <Logger name="com.metlife" level="DEBUG">
+        <AppenderRef ref="http-input"/>
+      	<AppenderRef ref="STDOUT"/>
+      </Logger>
+    </Loggers>
+</Configuration>

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "X-Backside-Transport": [
+      "OK OK,OK OK"
+    ],
+    "Connection": [
+      "Keep-Alive"
+    ],
+    "Transfer-Encoding": [
+      "chunked"
+    ],
+    "Server": [
+      "Apache-Coyote/1.1"
+    ],
+    "Content-Type": [
+      "application/json"
+    ],
+    "Date": [
+      "Tue, 10 Mar 2020 10:05:24 GMT"
+    ],
+    "X-Global-Transaction-ID": [
+      "86b7a4a35e676675148fb946"
+    ]
+  },
+  "body": {
+    "item": [
+      {
+        "description": "Success"
+      }
+    ]
+  }
+}

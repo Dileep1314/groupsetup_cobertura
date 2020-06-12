@@ -1,0 +1,108 @@
+{
+	"items": [
+	{
+		"item": {
+			"productCode": "Dental PPO",
+			"rfpType":"ADDPRODUCT",
+ 			"classList": [{
+					"classID": "0001",
+					"classDesc": "Logistics"
+				},
+				{
+					"classID": "0004",
+					"classDesc": "Accounts"
+				},
+				{
+					"classID": "0002",
+					"classDesc": "Research"
+				},
+				{
+					"classID": "0003",
+					"classDesc": "Legal"
+				}
+			],
+			"provisions": [{
+					"provisionName": "FUNDINGSHARINGAMOUNT",
+					"provisionValue": "45",
+					"classID": "0004"
+				},
+				{
+					"provisionName": "FUNDINGSHARINGAMOUNT",
+					"provisionValue": "56",
+					"classID": "0003"
+				},
+				{
+					"provisionName": "FUNDINGSHARINGAMOUNT",
+					"provisionValue": "Y",
+					"classID": "0001"
+				},
+				{
+					"provisionName": "FUNDINGSHARINGAMOUNT",
+					"provisionValue": "Y",
+					"classID": "0002"
+				},
+				{
+					"provisionName": "BROKERCOMMISSIONTYPE",
+					"provisionValue": "45",
+					"classID": "0001"
+				},
+				{
+					"provisionName": "BROKERCOMMISSIONTYPE",
+					"provisionValue": "56",
+					"classID": "0002 "
+				},
+				{
+					"provisionName": "BROKERCOMMISSIONTYPE",
+					"provisionValue": "Percentage",
+					"classID": "0004"
+				},
+				{
+					"provisionName": "BROKERCOMMISSIONTYPE",
+					"provisionValue": "Percentage",
+					"classID": "0003"
+				},
+				{
+					"provisionName": "BROKERCOMMISSOINRATE",
+					"provisionValue": "67",
+					"classID": "0003"
+				},
+				{
+					"provisionName": "BROKERCOMMISSOINRATE",
+					"provisionValue": "75",
+					"classID": "0001"
+				},
+				{
+					"provisionName": "BROKERCOMMISSOINRATE",
+					"provisionValue": "75",
+					"classID": "0004"
+				},
+				{
+					"provisionName": "BROKERCOMMISSOINRATE",
+					"provisionValue": "75",
+					"classID": "0002"
+				},
+				{
+					"provisionName": "TIERTYPE",
+					"provisionValue": "45",
+					"classID": "0001"
+				},
+				{
+					"provisionName": "TIERTYPE",
+					"provisionValue": "56",
+					"classID": "0002 "
+				},
+				{
+					"provisionName": "TIERTYPE",
+					"provisionValue": "99",
+					"classID": "0003"
+				},
+				{
+					"provisionName": "TIERTYPE",
+					"provisionValue": "5000",
+					"classID": "0004"
+				}
+			]
+		}
+	}
+	]
+}

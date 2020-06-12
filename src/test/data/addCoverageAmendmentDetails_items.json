@@ -1,0 +1,583 @@
+{
+	"items": [
+		{
+			"item":{
+				"proposal":{
+					"rfpId": "R31555029",
+					"rfpType": "NEWBUSINESS5",
+					"groupNumber": "6510332",
+					"companyName": "Bills Best Bagels",
+					"companyID": "6510332",
+					"groupSetupStatusCode": 103,
+					"actualStatus": "Pending Enrollment",
+					"uniqueId": "PR31524021",
+					"eligibleLives": "10",
+					"sicCode": "5812",
+					"sicDescription": "Eating Places",
+					"numberOfLocations": "1",
+					"effectiveDate": "07/01/2019",
+					"federalTaxId": "39-8918391",
+					"numberOfProducts": "2",
+					"accountExecutive": {},
+					"partyTypeDetails": [],
+					"productCode": [
+						"PPO",
+						"STD",
+						"HI"
+					],					
+					"primaryAddress": {
+						"addressLine1": "424 Main Street",
+						"city": "East Haven",
+						"state": "CT",
+						"zip": "06512",
+						"situsState": "CT"
+					},
+					"extention": {
+						"isUSCitizen": "No",
+						"secondarySIC": "",
+						"rfpSoldDate": "06/07/2019",
+						"entryDate": "06/07/2019",
+						"createdDate": "06/07/2019",
+						"creditInfo": {
+							"referenceNumber": "",
+							"yearStarted": "",
+							"naic": "",
+							"dnbRating": "",
+							"bankruptcyNoOfFilings": "",
+							"recentlyFilingDate": ""
+						},
+						"isERDirect": "false",
+						"dhmoStates": ""
+					},
+					"brokerId": "BKR4055091",
+					"module": "",
+					"groupSetUpStatus": "Application In Progress",
+					"empRegistered": true
+				}
+			}
+		},
+		{
+			"item":{
+				"proposal":{
+					"rfpId": "R31541025",
+					"rfpType": "ADDPRODUCT5",					
+					"groupNumber": "6509923",
+					"companyName": "0530_Testing for RFP Status Draft",
+					"companyID": "6509923",
+					"groupSetupStatusCode": 103,
+					"actualStatus": "Pending Enrollment",
+					"uniqueId": "PR31522024",
+					"eligibleLives": "10",
+					"sicCode": "0111",
+					"sicDescription": "Wheat",
+					"numberOfLocations": "1",
+					"effectiveDate": "07/01/2019",
+					"federalTaxId": "84-9534583",
+					"numberOfProducts": "1",
+					"accountExecutive": {},
+					"partyTypeDetails": [],
+					"productCode": [
+						"PPO",
+						"STD",
+						"HI"
+					],					
+					"primaryAddress": {
+						"addressLine1": "301 Metlife Way",
+						"addressLine2": "",
+						"city": "Cary",
+						"state": "NC",
+						"zip": "27513",
+						"situsState": "NC"
+					},
+					"extention": {
+						"isUSCitizen": "No",
+						"secondarySIC": "",
+						"rfpSoldDate": "06/06/2019",
+						"entryDate": "05/31/2019",
+						"createdDate": "05/31/2019",
+						"creditInfo": {
+							"referenceNumber": "",
+							"yearStarted": "",
+							"naic": "",
+							"dnbRating": "",
+							"bankruptcyNoOfFilings": "",
+							"recentlyFilingDate": ""
+						},
+						"isERDirect": "false",
+						"dhmoStates": ""
+					},
+					"brokerId": "BKR4055091",
+					"module": "",
+					"groupSetUpStatus": "Application In Progress",
+					"empRegistered": true
+				}
+			}
+		},
+		{
+			"item":{
+				"proposal":{
+					"rfpId": "R31786058",
+					"rfpType": "ADDPRODUCT4",					
+					"groupNumber": "6515232",
+					"companyName": "VISONE",
+					"companyID": "6515232",
+					"groupSetupStatusCode": 103,
+					"actualStatus": "Pending Enrollment",
+					"uniqueId": "PR31756033",
+					"eligibleLives": "10",
+					"sicCode": "3600",
+					"sicDescription": "ELECTRONIC AND OTHER ELECTRICAL EQUIPMENT AND COMPONENTS, EXCEPT COMPUTER EQUIPMENT",
+					"numberOfLocations": "1",
+					"effectiveDate": "08/30/2019",
+					"federalTaxId": "23-4534267",
+					"numberOfProducts": "1",
+					"accountExecutive": {},
+					"partyTypeDetails": [],
+					"productCode": [
+						"PPO",
+						"STD",
+						"HI"
+					],					
+					"primaryAddress": {
+						"addressLine1": "Metlife way",
+						"city": "FL",
+						"state": "FL",
+						"zip": "32003",
+						"situsState": "FL"
+					},
+					"extention": {
+						"isUSCitizen": "No",
+						"secondarySIC": "",
+						"rfpSoldDate": "08/22/2019",
+						"entryDate": "08/22/2019",
+						"createdDate": "08/22/2019",
+						"creditInfo": {
+							"referenceNumber": "",
+							"yearStarted": 0,
+							"naic": "",
+							"dnbRating": "",
+							"bankruptcyNoOfFilings": 0,
+							"recentlyFilingDate": ""
+						},
+						"isERDirect": "false",
+						"dhmoStates": ""
+					},
+					"brokerId": "BKR4055091",
+					"module": "",
+					"groupSetUpStatus": "Application In Progress",
+					"empRegistered": false
+				}
+			}
+		},
+		{
+			"item":{
+				"proposal":{
+					"rfpId": "R31548053",
+					"rfpType": "ADDPRODUCT3",					
+					"groupNumber": "6510273",
+					"companyName": "Primary Address",
+					"companyID": "6510273",
+					"groupSetupStatusCode": 103,
+					"actualStatus": "Pending For Implementation",
+					"uniqueId": "PR31522030",
+					"eligibleLives": "10",
+					"sicCode": "0111",
+					"sicDescription": "Wheat",
+					"numberOfLocations": "1",
+					"effectiveDate": "07/01/2019",
+					"federalTaxId": "93-4579409",
+					"numberOfProducts": "1",
+					"accountExecutive": {},
+					"partyTypeDetails": [],
+					"productCode": [
+						"PPO",
+						"STD",
+						"HI"
+					],					
+					"primaryAddress": {
+						"addressLine1": "301 Metlife Way",
+						"addressLine2": "",
+						"city": "Cary",
+						"state": "NC",
+						"zip": "27513",
+						"situsState": "NC"
+					},
+					"extention": {
+						"isUSCitizen": "No",
+						"secondarySIC": "",
+						"rfpSoldDate": "06/06/2019",
+						"entryDate": "06/06/2019",
+						"createdDate": "06/06/2019",
+						"creditInfo": {
+							"referenceNumber": "",
+							"yearStarted": "",
+							"naic": "",
+							"dnbRating": "",
+							"bankruptcyNoOfFilings": "",
+							"recentlyFilingDate": ""
+						},
+						"isERDirect": "false",
+						"dhmoStates": ""
+					},
+					"brokerId": "BKR4055091",
+					"module": "",
+					"groupSetUpStatus": "Application In Progress",
+					"empRegistered": true
+				}
+			}
+		},
+		{
+			"item":{
+				"proposal":{
+					"rfpId": "R31752004",
+					"rfpType": "ADDPRODUCT2",					
+					"groupNumber": "6515632",
+					"companyName": "Checkign for UAT issue_0813",
+					"companyID": "6515632",
+					"groupSetupStatusCode": 103,
+					"actualStatus": "Pending Enrollment Definition",
+					"uniqueId": "PR31721003",
+					"eligibleLives": "10",
+					"sicCode": "0111",
+					"sicDescription": "Wheat",
+					"numberOfLocations": "1",
+					"effectiveDate": "09/01/2019",
+					"federalTaxId": "36-5837465",
+					"numberOfProducts": "1",
+					"accountExecutive": {
+						"id": "0984085",
+						"firstName": "Carl",
+						"lastName": "Rude"
+					},
+					"partyTypeDetails": [],
+					"productCode": [
+						"PPO",
+						"STD",
+						"HI"
+					],					
+					"primaryAddress": {
+						"addressLine1": "16218 Anderson Road",
+						"addressLine2": "",
+						"city": "Fountain",
+						"state": "FL",
+						"zip": "32438",
+						"situsState": "FL"
+					},
+					"extention": {
+						"isUSCitizen": "No",
+						"secondarySIC": "",
+						"rfpSoldDate": "08/13/2019",
+						"entryDate": "08/13/2019",
+						"createdDate": "08/13/2019",
+						"creditInfo": {
+							"referenceNumber": "",
+							"yearStarted": "",
+							"naic": "",
+							"dnbRating": "",
+							"bankruptcyNoOfFilings": "",
+							"recentlyFilingDate": ""
+						},
+						"isERDirect": "false",
+						"dhmoStates": ""
+					},
+					"brokerId": "BKR4055091",
+					"module": "",
+					"groupSetUpStatus": "Application In Progress",
+					"empRegistered": true
+				}
+			}
+		},
+		{
+			"item":{
+				"proposal":{
+					"rfpId": "R31377004",
+					"rfpType": "ADDPRODUCT",					
+					"groupNumber": "6505870",
+					"companyName": "Test_RFP Slowness issue",
+					"companyID": "6505870",
+					"groupSetupStatusCode": 103,
+					"actualStatus": "Pending For Implementation",
+					"uniqueId": "PR31346004",
+					"eligibleLives": "10",
+					"sicCode": "0111",
+					"sicDescription": "Wheat",
+					"numberOfLocations": "1",
+					"effectiveDate": "05/01/2019",
+					"federalTaxId": "93-4579409",
+					"numberOfProducts": "1",
+					"accountExecutive": {},
+					"partyTypeDetails": [],
+					"productCode": [
+						"PPO",
+						"STD",
+						"HI"
+					],					
+					"primaryAddress": {
+						"addressLine1": "101 Metlife Way",
+						"addressLine2": "6th Floor",
+						"city": "Cary",
+						"state": "NC",
+						"zip": "27513",
+						"situsState": "NC"
+					},
+					"extention": {
+						"isUSCitizen": "No",
+						"secondarySIC": "",
+						"rfpSoldDate": "04/02/2019",
+						"entryDate": "04/02/2019",
+						"createdDate": "04/02/2019",
+						"creditInfo": {
+							"referenceNumber": "",
+							"yearStarted": "",
+							"naic": "",
+							"dnbRating": "",
+							"bankruptcyNoOfFilings": "",
+							"recentlyFilingDate": ""
+						},
+						"isERDirect": "false",
+						"dhmoStates": ""
+					},
+					"brokerId": "BKR4055091",
+					"module": "",
+					"groupSetUpStatus": "Application In Progress",
+					"empRegistered": true
+				}
+			}
+		},
+		{
+			"item":{
+				"proposal":{
+					"rfpId": "R31555024",
+					"rfpType": "NEWBUSINESS4",					
+					"groupNumber": "6510328",
+					"companyName": "Bobs Burgers",
+					"companyID": "6510328",
+					"groupSetupStatusCode": 103,
+					"actualStatus": "Pending Enrollment",
+					"uniqueId": "PR31525024",
+					"eligibleLives": "10",
+					"sicCode": "5812",
+					"sicDescription": "Eating Places",
+					"numberOfLocations": "1",
+					"effectiveDate": "07/01/2019",
+					"federalTaxId": "94-0309099",
+					"numberOfProducts": "2",
+					"accountExecutive": {},
+					"partyTypeDetails": [],
+					"productCode": [
+						"PPO",
+						"STD",
+						"HI"
+					],					
+					"primaryAddress": {
+						"addressLine1": "424 Main Street",
+						"city": "East Haven",
+						"state": "CT",
+						"zip": "06512",
+						"situsState": "CT"
+					},
+					"extention": {
+						"isUSCitizen": "No",
+						"secondarySIC": "",
+						"rfpSoldDate": "06/07/2019",
+						"entryDate": "06/07/2019",
+						"createdDate": "06/07/2019",
+						"creditInfo": {
+							"referenceNumber": "",
+							"yearStarted": "",
+							"naic": "",
+							"dnbRating": "",
+							"bankruptcyNoOfFilings": "",
+							"recentlyFilingDate": ""
+						},
+						"isERDirect": "false",
+						"dhmoStates": ""
+					},
+					"brokerId": "BKR4055091",
+					"module": "",
+					"groupSetUpStatus": "Application In Progress",
+					"empRegistered": true
+				}
+			}
+		},
+		{
+			"item":{
+				"proposal":{
+					"rfpId": "R31673015",
+					"rfpType": "NEWBUSINESS3",					
+					"groupNumber": "6513461",
+					"companyName": "Smoketest_0720",
+					"companyID": "6513461",
+					"groupSetupStatusCode": 103,
+					"actualStatus": "Pending Enrollment",
+					"uniqueId": "PR31643018",
+					"eligibleLives": "10",
+					"sicCode": "0111",
+					"sicDescription": "Wheat",
+					"numberOfLocations": "1",
+					"effectiveDate": "08/01/2019",
+					"federalTaxId": "67-5757575",
+					"numberOfProducts": "1",
+					"accountExecutive": {
+						"id": "0984085",
+						"firstName": "Carl",
+						"lastName": "Rude"
+					},
+					"partyTypeDetails": [],
+					"productCode": [
+						"PPO",
+						"STD",
+						"HI"
+					],					
+					"primaryAddress": {
+						"addressLine1": "16218 Anderson Road",
+						"addressLine2": "",
+						"city": "Fountain",
+						"state": "FL",
+						"zip": "32438",
+						"situsState": "FL"
+					},
+					"extention": {
+						"isUSCitizen": "No",
+						"secondarySIC": "",
+						"rfpSoldDate": "07/20/2019",
+						"entryDate": "07/20/2019",
+						"createdDate": "07/20/2019",
+						"creditInfo": {
+							"referenceNumber": "",
+							"yearStarted": "",
+							"naic": "",
+							"dnbRating": "",
+							"bankruptcyNoOfFilings": "",
+							"recentlyFilingDate": ""
+						},
+						"isERDirect": "false",
+						"dhmoStates": ""
+					},
+					"brokerId": "BKR4055091",
+					"module": "",
+					"groupSetUpStatus": "Application In Progress",
+					"empRegistered": true
+				}
+			}
+		},
+		{
+			"item":{
+				"proposal":{
+					"rfpId": "R31494021",
+					"rfpType": "NEWBUSINESS2",					
+					"groupNumber": "6508313",
+					"companyName": "0508_Testing_Multiple Prod",
+					"companyID": "6508313",
+					"groupSetupStatusCode": 103,
+					"actualStatus": "Pending For Implementation",
+					"uniqueId": "PR31464020",
+					"eligibleLives": "10",
+					"sicCode": "0722",
+					"sicDescription": "Crop Harvesting, Primarily by Machine",
+					"numberOfLocations": "1",
+					"effectiveDate": "06/01/2019",
+					"federalTaxId": "-",
+					"numberOfProducts": "2",
+					"accountExecutive": {},
+					"partyTypeDetails": [],
+					"productCode": [
+						"PPO",
+						"STD",
+						"HI"
+					],					
+					"primaryAddress": {
+						"addressLine1": "833 East F Street",
+						"addressLine2": "",
+						"city": "Ontario",
+						"state": "CA",
+						"zip": "91764",
+						"situsState": "CA"
+					},
+					"extention": {
+						"isUSCitizen": "No",
+						"secondarySIC": "",
+						"rfpSoldDate": "05/08/2019",
+						"entryDate": "05/08/2019",
+						"createdDate": "05/08/2019",
+						"creditInfo": {
+							"referenceNumber": "",
+							"yearStarted": "",
+							"naic": "",
+							"dnbRating": "",
+							"bankruptcyNoOfFilings": "",
+							"recentlyFilingDate": ""
+						},
+						"isERDirect": "false",
+						"dhmoStates": ""
+					},
+					"brokerId": "BKR4055091",
+					"module": "",
+					"groupSetUpStatus": "Application In Progress",
+					"empRegistered": false
+				}
+			}
+		},
+		{
+			"item":{
+				"proposal":{
+					"rfpId": "R31721008",
+					"rfpType": "NEWBUSINESS",
+					"groupNumber": "6515327",
+					"companyName": "Test UAT_coffee shop",
+					"companyID": "6515327",
+					"groupSetupStatusCode": 103,
+					"actualStatus": "Pending For Implementation",
+					"uniqueId": "PR31692001",
+					"eligibleLives": "10",
+					"sicCode": "1623",
+					"sicDescription": "Water, Sewer, Pipeline, and Communications and Power Line Construction",
+					"numberOfLocations": "1",
+					"effectiveDate": "09/01/2019",
+					"federalTaxId": "23-4234234",
+					"numberOfProducts": "1",
+					"accountExecutive": {
+						"id": "0984085",
+						"firstName": "Carl",
+						"lastName": "Rude"
+					},
+					"partyTypeDetails": [],
+					"productCode": [
+						"PPO",
+						"STD",
+						"HI"
+					],
+					"primaryAddress": {
+						"addressLine1": "16218 Anderson Road",
+						"addressLine2": "",
+						"city": "Fountain",
+						"state": "FL",
+						"zip": "32438",
+						"situsState": "FL"
+					},
+					"extention": {
+						"isUSCitizen": "No",
+						"secondarySIC": "",
+						"rfpSoldDate": "08/06/2019",
+						"entryDate": "08/06/2019",
+						"createdDate": "08/06/2019",
+						"creditInfo": {
+							"referenceNumber": "",
+							"yearStarted": "",
+							"naic": "",
+							"dnbRating": "",
+							"bankruptcyNoOfFilings": "",
+							"recentlyFilingDate": ""
+						},
+						"isERDirect": "false",
+						"dhmoStates": ""
+					},
+					"brokerId": "BKR4055091",
+					"module": "",
+					"groupSetUpStatus": "Application In Progress",
+					"empRegistered": true
+				}
+			}
+		}
+	]
+}

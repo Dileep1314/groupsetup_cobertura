@@ -1,0 +1,83 @@
+{
+	"items": [{
+		"item": {
+			"type": "2",
+			"purpose": "2001",
+			"name": "",
+			"isChecked": "Y",
+			"acceptedBy": "kjh",
+			"date": "12/20/2018",
+			"time": "2018-12-20T01:12:46-05:00",
+			"state": "",
+			"relation": "",
+			"globalVersion": "1.0",
+			"isConsented": "",
+			"isConsentWaivedOff": "",
+			"wetInkIndicator": "",
+			"city": "",
+			"country": "",
+			"stateVersion": "",
+			"transactionReference": ""
+		}
+	},{
+		"item": {
+			"type": "2",
+			"purpose": "2002",
+			"name": "",
+			"isChecked": "Y",
+			"acceptedBy": "kjh",
+			"date": "12/20/2018",
+			"time": "2018-12-20T01:12:46-05:00",
+			"state": "",
+			"relation": "",
+			"globalVersion": "1.0",
+			"isConsented": "",
+			"isConsentWaivedOff": "",
+			"wetInkIndicator": "",
+			"city": "",
+			"country": "",
+			"stateVersion": "",
+			"transactionReference": ""
+		}
+	},{
+		"item": {
+			"type": "2",
+			"purpose": "2003",
+			"name": "",
+			"isChecked": "Y",
+			"acceptedBy": "kjh",
+			"date": "12/20/2018",
+			"time": "2018-12-20T01:12:46-05:00",
+			"state": "",
+			"relation": "",
+			"globalVersion": "1.0",
+			"isConsented": "",
+			"isConsentWaivedOff": "",
+			"wetInkIndicator": "",
+			"city": "",
+			"country": "",
+			"stateVersion": "",
+			"transactionReference": ""
+		}
+	},{
+		"item": {
+			"type": "2",
+			"purpose": "2003",
+			"name": "abc",
+			"isChecked": "Y",
+			"acceptedBy": "abc",
+			"date": "01/20/2019",
+			"time": "2019-01-20T01:12:46-05:00",
+			"state": "",
+			"relation": "",
+			"globalVersion": "1.0",
+			"isConsented": "",
+			"isConsentWaivedOff": "",
+			"wetInkIndicator": "",
+			"city": "",
+			"country": "",
+			"stateVersion": "",
+			"transactionReference": ""
+		}
+	}]
+}

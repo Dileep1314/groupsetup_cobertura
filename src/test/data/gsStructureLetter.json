@@ -1,0 +1,44 @@
+{
+	"items": [{
+		"item": {
+			"groupName": "string",
+			"groupNumber": "string",
+			"structureEffectiveDate": "string",
+			"dhmoStates": "string",
+			"groupStructure": {
+				"subGroup": [{
+					"subGroupNumber": "string",
+					"assignClassLocation": [{
+						"classId": "string"
+					}],
+					"buildCaseStructure": {
+						"location": {
+							"locationName": "string"
+						},
+						"departments": [{
+							"departmentDescription": "string",
+							"departmentCode": "string"
+						}]
+					}
+				}],
+				"classDefinition": [{
+					"existingClassId": "string",
+					"existingClassName": "string",
+					"existingClassDescription": "string",
+					"censusFileName": "string",
+					"productDetails": [{
+						"productCode": "string",
+						"productName": "string",
+						"provisions": [{
+							"provisionName": "string",
+							"provisionValue": "string"
+						}],
+						"choicePlans": [{
+							"choice": "string"
+						}]
+					}]
+				}]
+			}
+		}
+	}]
+}

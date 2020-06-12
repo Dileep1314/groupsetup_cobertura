@@ -1,0 +1,36 @@
+{"riskAssessment":{
+	"_id" : "",
+	"pregnantEmployeeDetails" : {
+		"companyName" : "",
+		"eligibleLives" : "",
+		"anyPregnantEmployees" : "",
+		"pregnantEmployeesNumber" : ""
+	},
+	"healthRisks" : {
+		"companyName" : "",
+		"eligibleLives" : "",
+		"anyEmployeesWithHealthRisks" : "",
+		"disclaimer" : "",
+		"questions" : [
+			{
+				"question" : "",
+				"isChecked" : ""
+			}
+		],
+		"otherQuestionText" : ""		
+	},
+	"disabledEmployees" : {
+		"anyDisabledEmployees" : "",
+		"numberOfDisabledEmployees" : "",
+		"anyPremiumWaiverAndTerminalLiability" : "",
+		"disableEmployeeDetails" : [
+			{
+				"dateOfBirth" : "",
+				"dateOfDisability" : "",
+				"natureOfClaim" : "",
+				"estimatedDateOfReturn" : "",
+				"BenefitAmount" : ""
+			}
+		]
+	}
+}} 

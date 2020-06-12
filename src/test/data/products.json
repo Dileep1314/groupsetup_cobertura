@@ -1,0 +1,72 @@
+{"items": [
+   {"item":    {
+      "name": "Basic Life / AD&D",
+      "typeCode": "100",
+      "nameCode": "105",
+      "nameCategoryCode":       [
+         "202",
+         "201"
+      ],
+      "number": "105"
+   }},
+   {"item":    {
+      "name": "Vision",
+      "typeCode": "700",
+      "nameCode": "704",
+      "nameCategoryCode":       [
+         "202",
+         "201"
+      ],
+      "number": "704"
+   }},
+   {"item":    {
+      "name": "MetLaw",
+      "typeCode": "1000",
+      "nameCode": "1003",
+      "nameCategoryCode": [],
+      "number": "1003"
+   }},
+   {"item":    {
+      "name": "Short Term Disability",
+      "typeCode": "400",
+      "nameCode": "402",
+      "nameCategoryCode":       [
+         "202",
+         "201"
+      ],
+      "number": "402"
+   }},
+   {"item":    {
+      "name": "Dental DHMO",
+      "typeCode": "200",
+      "nameCode": "201",
+      "nameCategoryCode": [],
+      "number": "201"
+   }},
+   {"item":    {
+      "name": "Dental",
+      "typeCode": "200",
+      "nameCode": "202",
+      "nameCategoryCode": [],
+      "number": "202"
+   }},
+   {"item":    {
+      "name": "Long Term Disability",
+      "typeCode": "400",
+      "nameCode": "403",
+      "nameCategoryCode":       [
+         "202",
+         "201"
+      ],
+      "number": "403"
+   }},
+   {"item":    {
+      "name": "Basic Dependent Life",
+      "typeCode": "100",
+      "nameCode": "106",
+      "nameCategoryCode": ["105"],
+      "number": "106"
+   }}
+]}
+
+

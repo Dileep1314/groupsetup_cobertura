@@ -1,0 +1,4609 @@
+{
+    "items": [
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOjhMBhOL",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentID": "idd_DeCddzCWSq:Bg:EjOOOhNBBE",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        },
+        {
+            "self": "/dms-cmis/v2/searches/documents",
+            "partyID": "GPMID 1111111",
+            "createDate": "2018-07-03",
+            "ObjectId": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentID": "idd_DeCddzCWSq:Bg:EjLjLMNMOB",
+            "documentSourceCode": "MGI",
+            "product": {
+                "productCode": "",
+                "productFamilyCode": "",
+                "productFamilyName": "PROD TYPE1",
+                "productName": ""
+            },
+            "person": {
+                "employeeID": "EMP00001",
+                "personFullName": "",
+                "personGiven1Name": "",
+                "personGiven2Name": "",
+                "personLastName": ""
+            },
+            "groupcustomer": {
+                "billingBranchNumber": "BILENT01",
+                "customerNumber": "0109751",
+                "experienceNumber": "EXPN001",
+                "marketTypeCode": "SM",
+                "prospectNumber": ""
+            },
+            "bill": {
+                "billDueDate": "2018-07-03"
+            },
+            "producer": {
+                "brokerageID": "BRKFRM01",
+                "brokerID": "BRK00001"
+            },
+            "claim": {
+                "claimID": "8020234315"
+            },
+            "URL": {
+                "URLID": "https://dms.metlife.com/dms-viewer/web/viewer"
+            },
+            "categorization": {
+                "businessCapabilityCode": "INS EOB",
+                "documentDetailTypeCode": "INS EOB",
+                "documentTypeCode": ""
+            }
+        }
+    ],
+    "metadata": {
+        "limit": 100,
+        "count": 100,
+        "offset": 1
+    }
+}

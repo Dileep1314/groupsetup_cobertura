@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+  	"paymentFrequencyCode": {
+      "type": "string",
+      "enum": ["501","502","503","504"]
+    },
+    "premiumAmount": {
+     "$ref": "file:${deploy.path}/src/dynamic/domainModel/CORE/COMMON/amount.json"
+    }
+  } 
+}

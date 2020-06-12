@@ -1,0 +1,29 @@
+{
+  "HIPAA": {
+    "authorizationId": "3",
+    "hipaaId": "112",
+    "PHIInformationAccess": "yes",
+    "claimAccess": "",
+    "authorizationRequest": {
+      "employeeTitle": [
+        {
+          "title": "",
+          "otherIdentifier": ""
+        }
+      ],
+      "fileDetails": {
+        "content": "",
+        "format": "BASE64",
+        "fileName": "",
+        "fileExtention": ""
+      },
+      "includePrivacyOfficer": "yes",
+      "includeParticipantsRights": "yes",
+      "includePrivicyIssues": "yes",
+      "eSignAcceptence": "",
+      "acceptedBy": "",
+      "date": "",
+      "time": ""
+    }
+  }
+}

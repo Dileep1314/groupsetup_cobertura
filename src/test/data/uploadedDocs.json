@@ -1,0 +1,41 @@
+{
+	"items": [{
+			"item": {
+				"customerID": "123",
+				"documentCategory": "Underwriting",
+				"docType": "Other",
+				"productType": "Cross Product",
+				"employeeID": null,
+				"claimNumber": 3218,
+				"brokerID": "BKR4054951",
+				"brokerFirmID": "BF12345",
+				"gpmID": "346776",
+				"documentID": "J5WRYDsUszUxpQgaqna3fK3nbulsGjO",
+				"status": "success",
+				"docCreationDate": "2019-02-28 15:17:30.230910",
+				"documentName": "flow.pdf",
+				"processedDate": "2019-02-28 10:17:30.230910",
+				"dmfObjectID": "idd_DeCddzCWSq:hj:gEhNjgjZEgMPNBajhgjPOhBOPEh3Lh3N"
+			}
+		},
+		{
+			"item": {
+				"customerID": "123",
+				"documentCategory": "Underwriting",
+				"docType": "MasterApp",
+				"productType": "Cross Product",
+				"employeeID": null,
+				"claimNumber": 3218,
+				"brokerID": "BKR4054951",
+				"brokerFirmID": "BF12345",
+				"gpmID": "346776",
+				"documentID": "ZUU9SSCZPkNu0HCIcNQmqooSn6dgL3N",
+				"status": "failed",
+				"docCreationDate": "2019-02-28 15:19:06.762208",
+				"documentName": "flow.pdf",
+				"processedDate": "2019-02-28 10:19:06.762208",
+				"dmfObjectID": null
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+  "authorization": {
+    "disabilityTaxation": {
+      "issueDisability": "Customer/Metlife",
+      "payrollVendor": "yes/no",
+      "termConditionChecked": "yes/no"
+    },
+    "portabilityTrust": "yes/no",
+    "noClaims": {
+      "claimsIncurred": "yes/no",
+      "termConditionChecked": "yes/no",
+      "claimInformation": [
+        {
+          "product": "",
+          "dateofClaim": "",
+          "natureofClaim": "",
+          "additionalComments": ""
+        }
+      ]
+    },
+    "masterApp": {
+      "eSignAcceptence": "",
+      "acceptedBy": "",
+      "date": "",
+      "time": ""
+    }
+  }
+}

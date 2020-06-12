@@ -1,0 +1,324 @@
+{
+	"tenantId": "US",
+	"tenantCountry": "US",
+	"patterns": {
+		"sendMail": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/emailnotification",
+		"generateCompensableCode": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/compensablecode",
+		"getGroupSetupDetails": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/groupsetupdetails",
+		"saveAsDraft": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/save/details",
+		"downloadDocuments": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/downloaddocuments",
+		"getSoldProposals": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<persona>[A-Za-z0-9_]+)/(?<personaId>[A-Za-z0-9_]+)/soldproposals",
+		"validateSubmitData": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/validatesubmitdetails",
+		"uploadDocuments": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/uploaddocuments",
+		"mapConsolidateData": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/mapconsolidatedata",
+		"declinedStatus": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/declinedProducts",
+		"masterApp": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/masterapp",
+		"groupSetupStatus": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/rfpId/(?<rfpId>[a-zA-Z0-9_]+)/groupNumber/(?<groupNumber>[a-zA-Z0-9_]+)/groupsetupstatus",
+		"finalizeGroupSetup": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/groupNumber/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/finalizegroupsetup",
+		"requote": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/requote",
+		"staticDocumentsDownload": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/downloadstaticdocuments",
+		"pageContent": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/pageContent/(?<module>[a-zA-Z0-9_]+)",
+		"getEmployerInfo": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/employerprofile/(?<metrefId>[A-Za-z0-9_]+)",
+		"retrieveUploadedDocs": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/retrieveuploadeddocuments",
+		"notifykickout": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupNumber>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/kickoutNotification",
+		"clientsPrefetchService": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<metrefid>[A-Za-z0-9_]+)/prefetch/clients",
+		"addCoverageAmendmentDetails": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<persona>[A-Za-z0-9_]+)/(?<personaId>[A-Za-z0-9_]+)/addcoverageamendmentdetails",
+		"preFetchKickOutNotifications": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<persona>[A-Za-z0-9_]+)/(?<metrefid>[A-Za-z0-9_]+)/prefetchkickoutnotifications",
+		"emailScheduler": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/emailscheduler",
+		"structureHistory":"/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+)/structurehistory",
+		"structureLetter":"/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<groupSetUpId>[A-Za-z0-9_]+_[A-Za-z0-9_]+_[A-Za-z0-9_]+)/structureletter",
+		"getGSAgentsInfo:": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/gsagentdetails",
+        "downloadHistory": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupStructure/downloadhistory",
+        "savebanner": "/v1/tenants/(?<tenantId>[a-zA-Z0-9_]+)/groupsetup/(?<metrefId>[A-Za-z0-9_]+)/savebanner"
+	},
+		
+	"methodDefinitions": {
+	"emailScheduler": {
+		"GET": [
+			"groovy.US.EmailScheduler"
+		]
+	},	
+      "downloadHistory": {
+        "POST": [
+                 "groovy.US.DownlaodStructureLetter"
+         ]
+     },
+	"getGSAgentsInfo:":{
+		"POST":[
+			"groovy.US.AgentsDetail"
+		]
+	},
+	"structureLetter":{
+		"POST":[
+			"groovy.US.StructureLetter"
+		]
+	},	
+	"structureHistory":{
+		"GET":[
+			"groovy.US.StructureHistory"
+		]
+	},	
+	"preFetchKickOutNotifications": {
+			"GET": [
+				"groovy.US.PreFetchGSKickoutNotifications"
+			]
+		},
+		"clientsPrefetchService": {
+			"GET": [
+				"groovy.US.GroupSetupClientsPreFetchService",
+				"groovy.US.PreFetchGSKickoutNotifications"
+			]
+		},
+		"notifykickout": {
+			"GET": [
+				"groovy.US.GetGroupSetupKickout"
+			]
+		},
+		"pageContent": {
+			"GET": [
+				"groovy.US.GroupSetupPageContent"
+			]
+		},
+		"retrieveUploadedDocs": {
+			"GET": [
+				"groovy.US.RetrieveUploadedDocuments"
+			]
+		},
+		"getEmployerInfo": {
+			"GET": [
+				"groovy.US.GetEmployerInfo"
+			]
+		},
+		"requote": {
+			"POST": [
+				"groovy.US.GroupSetupRequote"
+			]
+		},
+		"staticDocumentsDownload": {
+			"GET": [
+				"groovy.US.StaticDocumentsDownload"
+			]
+		},
+		"finalizeGroupSetup": {
+			"POST": [
+				"groovy.US.GroupSetupSavePreference"
+			]
+		},
+		"groupSetupStatus": {
+			"GET": [
+				"groovy.US.GroupSetupStatus"
+			]
+		},
+		"masterApp": {
+			"POST": [
+				"groovy.US.GenerateMasterApp"
+			]
+		},
+		"declinedStatus": {
+			"POST": [
+				"groovy.US.DeclinedProducts"
+			]
+		},
+		"mapConsolidateData": {
+			"POST": [
+				"groovy.US.FrameConsolidateData"
+			]
+		},
+		"validateSubmitData": {
+			"POST": [
+				"groovy.US.SubmitGroupSetupDetails"
+			]
+		},
+		"getSoldProposals": {
+			"GET": [
+				"groovy.US.GetSoldProposals"
+			]
+		},
+		"downloadDocuments": {
+			"POST": [
+				"groovy.US.DownloadDocuments"
+			]
+		},
+		"uploadDocuments": {
+			"POST": [
+				"groovy.US.UploadDocuments"
+			]
+		},
+		"getGroupSetupDetails": {
+			"GET": [
+				"groovy.US.GetGroupSetupDetails"
+			]
+		},
+		"saveAsDraft": {
+			"POST": [
+				"groovy.US.SaveGroupSetupDraftDetails"
+			]
+		},
+		"sendMail": {
+			"POST": [
+				"groovy.US.GroupSetupSendMail"
+			]
+		},
+		"generateCompensableCode": {
+			"POST": [
+				"groovy.US.GenerateCompensableCode"
+			]
+		},
+		"addCoverageAmendmentDetails": {
+			"GET": [
+				"groovy.US.AddCoverageAmendmentDetails"
+			]
+		},
+		"savebanner":{
+         "POST": [
+				"groovy.US.BannerNotifcationDetails"
+			]
+		}
+	},
+	"errorCodes": {
+		"GBR_BACKEND_EXCEPTION": {
+			"statusCode": "400",
+			"message": "Error while invoking the GBR service. Error from GBR:083 - No data found for search/inquiry"
+		},
+		"GENERAL_DATA_ERROR": {
+			"statusCode": "400",
+			"message": "An exception occurred while processing the request."
+		},
+		"9901": {
+			"statusCode": "400",
+			"message": "Input Call Type Invalid."
+		},
+		"9902": {
+			"statusCode": "400",
+			"message": "Input ID Invalid."
+		},
+		"9903": {
+			"statusCode": "400",
+			"message": "Input ID Type Invalid."
+		},
+		"9904": {
+			"statusCode": "400",
+			"message": "Input State Signed Invalid."
+		},
+		"9905": {
+			"statusCode": "400",
+			"message": "Input State Risk Residence Invalid."
+		},
+		"9906": {
+			"statusCode": "400",
+			"message": "Input Validation Date Invalid."
+		},
+		"9907": {
+			"statusCode": "400",
+			"message": "Input Product Type Invalid."
+		},
+		"9908": {
+			"statusCode": "400",
+			"message": "Input Issuing Company Invalid."
+		},
+		"9909": {
+			"statusCode": "400",
+			"message": "Input Stage Invalid."
+		},
+		"9910": {
+			"statusCode": "400",
+			"message": "No Match Found for Input ID Provided."
+		},
+		"9911": {
+			"statusCode": "400",
+			"message": "Input State Owner Invalid."
+		},
+		"9912": {
+			"statusCode": "400",
+			"message": "Input Date2 Invalid."
+		},
+		"9913": {
+			"statusCode": "400",
+			"message": "Input User Login Name Invalid."
+		},
+		"9915": {
+			"statusCode": "400",
+			"message": "Not FINRA Registered."
+		},
+		"9916": {
+			"statusCode": "400",
+			"message": "Validation Date Prior to FINRA Date ."
+		},
+		"9937": {
+			"statusCode": "400",
+			"message": "FINRA CE Inactive"
+		},
+		"400013": {
+			"statusCode": "500",
+			"message": "Service Unavailable, Please try after some time."
+		},
+		"20005": {
+			"statusCode": "500",
+			"message": "Unable to get Client Information from Metlife"
+		},
+		"40001": {
+			"statusCode": "500",
+			"message": "Mongo Operation failed"
+		},
+		"40002": {
+			"statusCode": "500",
+			"message": "Data is not available at Cache"
+		},
+		"40003": {
+			"statusCode": "500",
+			"message": "Submitted successfully, Mongo delete draft operation failed "
+		},
+		"GENERAL_ERROR": {
+			"statusCode": "500",
+			"message": "Unable to create context"
+		},
+		"INVALID_SCREEN": {
+			"statusCode": "500",
+			"message": "Invalid screen"
+		},
+		"RISK_ASSESSMENT_FORM_NOT_SUBMITTED": {
+			"statusCode": "500",
+			"message": "Risk Assessment form not submitted"
+		},
+		"MASTER_APP_DATA_NOT_FOUND": {
+			"statusCode": "500",
+			"message": "Master App data not found"
+		},
+		"HIPAA_NOT_SUBMITTED": {
+			"statusCode": "500",
+			"message": "Hipaa not submitted"
+		},
+		"GROSS_LETTER_NOT_SUBMITTED": {
+			"statusCode": "500",
+			"message": "Gross letter not submitted"
+		},
+		"PAYMENT_NOT_SUBMITTED": {
+			"statusCode": "500",
+			"message": "Payment not submitted"
+		},
+		"TP_BILLING_NOT_SUBMITTED": {
+			"statusCode": "500",
+			"message": "TP billing not submitted"
+		},
+		"EAMIL_NOTIFICATION_FAILED": {
+			"statusCode": "500",
+			"message": "EamilNotification Failed"
+		},
+		"SERVICE_NOT_AVAILABLE": {
+			"statusCode": "500",
+			"message": "Error While connecting external service"
+		},
+		"UNAUTHORIZED": {
+			"statusCode": "401",
+			"message": "Unauthorized User"
+		},
+		"INVALID_FILE": {
+			"statusCode": "500",
+			"message": "Virus found in the uploaded file, Please fix the file"
+		},
+		"ANTI_VIRUS_ERROR": {
+			"statusCode": "500",
+			"message": "Antivirus scan app is not available.please check app log for more Information"
+		}
+	}
+}

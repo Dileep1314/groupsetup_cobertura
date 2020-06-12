@@ -1,0 +1,133 @@
+{
+	"proposals": [{
+			"rfpId": "5",
+			"groupNumber": "1",
+			"companyName": "IBM",
+			"companyID": "1",
+			"groupSetUpStatus": "Active",
+			"uniqueId": "45678",
+			"eligibleLives": "3",
+			"sicCode": "SIC",
+			"sicDescription": "description",
+			"effectiveDate": "MM/DD/YYYY",
+			"federalTaxId": "234",
+			"numberOfLocations": "2",
+			"numberOfProducts": "3",
+			"accountExecutive": {
+				"firstName": "John",
+				"lastName": "Bill"
+			},
+			"primaryAddress": {
+				"addressLine1": "IBM Private Limited",
+				"addressLine2": "Manyata Tech Park",
+				"city": "Bangaluru",
+				"state": "Karnataka",
+				"zip": "550045"
+			}
+		},
+		{
+			"rfpId": "4",
+			"groupNumber": "2",
+			"companyName": "IBM",
+			"companyID": "1",
+			"groupSetUpStatus": "Active",
+			"uniqueId": "45678",
+			"eligibleLives": "3",
+			"sicCode": "SIC",
+			"sicDescription": "description",
+			"effectiveDate": "MM/DD/YYYY",
+			"federalTaxId": "234",
+			"numberOfLocations": "2",
+			"numberOfProducts": "3",
+			"accountExecutive": {
+				"firstName": "John",
+				"lastName": "Bill"
+			},
+			"primaryAddress": {
+				"addressLine1": "IBM Private Limited",
+				"addressLine2": "Manyata Tech Park",
+				"city": "Bangaluru",
+				"state": "Karnataka",
+				"zip": "550045"
+			}
+		},
+		{
+			"rfpId": "3",
+			"groupNumber": "3",
+			"companyName": "IBM",
+			"companyID": "1",
+			"groupSetUpStatus": "Active",
+			"uniqueId": "45678",
+			"eligibleLives": "3",
+			"sicCode": "SIC",
+			"sicDescription": "description",
+			"effectiveDate": "MM/DD/YYYY",
+			"federalTaxId": "234",
+			"numberOfLocations": "2",
+			"numberOfProducts": "3",
+			"accountExecutive": {
+				"firstName": "John",
+				"lastName": "Bill"
+			},
+			"primaryAddress": {
+				"addressLine1": "IBM Private Limited",
+				"addressLine2": "Manyata Tech Park",
+				"city": "Bangaluru",
+				"state": "Karnataka",
+				"zip": "550045"
+			}
+		},
+		{
+			"rfpId": "2",
+			"groupNumber": "4",
+			"compayName": "IBM",
+			"companyID": "1",
+			"groupSetUpStatus": "Active",
+			"uniqueId": "45678",
+			"eligibleLives": "3",
+			"sicCode": "SIC",
+			"sicDescription": "description",
+			"effectiveDate": "MM/DD/YYYY",
+			"federalTaxId": "234",
+			"numberOfLocations": "2",
+			"numberOfProducts": "3",
+			"accountExecutive": {
+				"firstName": "John",
+				"lastName": "Bill"
+			},
+			"primaryAddress": {
+				"addressLine1": "IBM Private Limited",
+				"addressLine2": "Manyata Tech Park",
+				"city": "Bangaluru",
+				"state": "Karnataka",
+				"zip": "550045"
+			}
+		},
+		{
+			"rfpId": "1",
+			"groupNumber": "5",
+			"compayName": "IBM",
+			"companyID": "1",
+			"groupSetUpStatus": "Active",
+			"uniqueId": "45678",
+			"eligibleLives": "3",
+			"sicCode": "SIC",
+			"sicDescription": "description",
+			"effectiveDate": "MM/DD/YYYY",
+			"federalTaxId": "234",
+			"numberOfLocations": "2",
+			"numberOfProducts": "3",
+			"accountExecutive": {
+				"firstName": "John",
+				"lastName": "Bill"
+			},
+			"primaryAddress": {
+				"addressLine1": "IBM Private Limited",
+				"addressLine2": "Manyata Tech Park",
+				"city": "Bangaluru",
+				"state": "Karnataka",
+				"zip": "550045"
+			}
+		}
+	]
+}

@@ -1,0 +1,93 @@
+{
+  "_id": "",
+  "grossSubmit": {
+    "authorizationId": "1",
+    "grossId": "",
+    "brokerAccess": {
+      "haveAccess": "Yes/No"
+    },
+    "grammLeachBilley": {
+      "isChecked": "true/false"
+    },
+    "ICNotice": {
+      "isChecked": "true/false"
+    },
+    "grossUpLetter": {
+      "isChecked": "true/false",
+      "date": "",
+      "time": ""
+    },
+    "isSubmitted": "yes/no"
+  },
+  "tpBilling": {
+    "authorizationId": "2",
+    "tpBillingId": "",
+    "customerRepersentative": {
+      "firstName": "",
+      "middleName": "",
+      "lastName": "",
+      "title": "",
+      "email": ""
+    },
+    "eSignAcceptence": "",
+    "acceptedBy": "",
+    "date": "",
+    "time": "",
+    "isSubmitted": "yes/no"
+  },
+  "HIPAA": {
+    "authorizationId": "3",
+    "hipaaId": "",
+    "PHIInformationAccess": "yes/no",
+    "claimAccess": "",
+    "authorizationRequest": {
+      "employeeTitle": [
+        {
+          "title": "",
+          "otherIdentifier": ""
+        }
+      ],
+      "fileDetails": {
+        "content": "",
+        "format": "BASE64",
+        "fileName": "",
+        "fileExtention": ""
+      },
+      "includePrivacyOfficer": "yes/no",
+      "includeParticipantsRights": "yes/no",
+      "includePrivicyIssues": "yes/no",
+      "eSignAcceptence": "",
+      "acceptedBy": "",
+      "date": "",
+      "time": "",
+      "isSubmitted": "yes/no"
+    },
+    "authorization": {
+      "disabilityTaxation": {
+        "issueDisability": "Customer/Metlife",
+        "payrollVendor": "yes/no",
+        "termConditionChecked": "yes/no"
+      },
+      "portabilityTrust": "yes/no",
+      "noClaims": {
+        "claimsIncurred": "yes/no",
+        "termConditionChecked": "yes/no",
+        "claimInformation": [
+          {
+            "product": "",
+            "dateofClaim": "",
+            "natureofClaim": "",
+            "additionalComments": ""
+          }
+        ]
+      },
+      "masterApp": {
+        "eSignAcceptence": "",
+        "acceptedBy": "",
+        "date": "",
+        "time": ""
+      },
+      "isSubmitted": "yes/no"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+#Local-only config
+
+componentScan:
+  basePackages:
+    com.metlife.gssp.resources,
+    com.metlife.config,
+    com.metlife.gssp.persistence,
+    com.metlife.gssp.repo,
+    com.metlife.service,
+    com.metlife.gssp.common.controller,
+    com.metlife.gssp.common.utils,
+    com.metlife.gssp.sample
+
+# General application specific information.
+server:
+  port: 9999
+spring:
+  application:
+    name: metlife-gssp-linked-accounts
+    version: v1
+
+useEurekaForEIP: false
+eip:
+  eureka:
+    vipAddress: eip-sor-mock-service
+  non-eureka:
+    ribbonClientName: eipservice
+
+eipservice:
+  ribbon:
+    listOfServers: 172.26.60.13:3000
+    ReadTimeout: 5000    
+    MaxAutoRetries: 2
+
+gssp:
+  spi:
+    providers: /v1/providers
+  defaultPaginationValues :
+    limit: 10
+    offset: 0
+
+# Mongo database location and information.
+mongodatabase:
+  commonlookupuri: localhost
+  commonlookupport: 27017
+  commonlookupdb: gssp_mongodb
+  url: localhost
+  no_of_connections: 10
+  port: 27017
+  refdatadbname: gssp_mongodb
+  userprofileadbname: tenant1
+  userid:
+  password:
+
+# Dynamic groovy file locations.
+groovyPath: src/dynamic/workflow/groovy
+jsonPath: src/dynamic/config/json
+source: FILE
+
+# Eureka discovery.
+eureka:
+  client:
+    enabled: true
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+    register-with-eureka: true
+
+
+#rabbit mq properties for amqp connectivity
+rabbitmq:
+  addresses:
+    172.26.60.5
+  port:
+    5672
+  username:
+    guest
+  password:
+    guest
+  audit:
+    logger:
+      message:
+        queue:
+          name:
+            myAnonymousQueue
+        exchange:
+          name:
+            TUTORIAL-EXCHANGE
+      microservice:
+        sender:
+          routing:
+            key:
+              my.routingkey.1
+        listener:
+          pattern:
+            my.routingkey.1
+
+repo:
+  path:
+  username:
+  password:
+  url:
+  branch:
+  refreshType:
+  
+logging:
+  config: classpath:log4j2-test.xml

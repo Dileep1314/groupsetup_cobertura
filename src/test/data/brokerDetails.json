@@ -1,0 +1,116 @@
+{
+    "brokerID": "BKR4006495",
+    "lineofBusinessCode": "INST",
+    "sourceGroupName": "4",
+    "sourceSystemCode": "9",
+    "enterpriseSystemCode": "G",
+    "partyTypeCode": "NEF Agent",
+    "partySystemKeyID": "195373",
+    "brokerage": {
+        "brokerageDetail": {
+            "universalProducerID": "1000050316",
+            "brokerageID": "BKC0022716"
+        }
+    },
+    "universalProducerID": "1000195373",
+    "directPayIndicator": false,
+    "compensableIndicator": "Y",
+    "governmentIDs": [
+        {
+            "governmentID": "290441893",
+            "governmentIDTypeCode": "SSN"
+        }
+    ],
+    "extension": {
+        "OFACExcludedIndicator": "0"
+    },
+    "name": {
+        "personGiven1Name": "BONTR",
+        "personLastName": "KRAJCUNUS"
+    },
+    "addresses": [
+        {
+            "addressTypeCode": "Business",
+            "archiveIndicator": "0",
+            "cityName": "DALLAS",
+            "countryName": "USA",
+            "preferredIndicator": "0",
+            "extension": {
+                "zipDeliveryOfficeCode": "75240",
+                "zipDeliverySegmentCode": "1037",
+                "stateCode": "TX"
+            },
+            "address1Line": "5400 LYNDON B JOHNSON FWY STE 1100",
+            "invalidatedIndicator": "0",
+            "addressID": "305145",
+            "lastUpdateTimeStamp": "2009-06-09 08:01:06.537373"
+        },
+        {
+            "addressTypeCode": "Correspondence",
+            "archiveIndicator": "0",
+            "cityName": "DALLAS",
+            "countryName": "USA",
+            "preferredIndicator": "0",
+            "extension": {
+                "zipDeliveryOfficeCode": "75240",
+                "zipDeliverySegmentCode": "1037",
+                "stateCode": "TX"
+            },
+            "address1Line": "5400 LYNDON B JOHNSON FWY STE 1100",
+            "invalidatedIndicator": "0",
+            "addressID": "305145",
+            "lastUpdateTimeStamp": "2009-06-09 08:01:06.480509"
+        },
+        {
+            "preferredIndicator": "0"
+        },
+        {
+            "preferredIndicator": "0"
+        },
+        {
+            "preferredIndicator": "0"
+        }
+    ],
+    "phones": [
+        {
+            "phoneTypeCode": "BusinessPhone",
+            "preferredIndicator": "0",
+            "extension": {
+                "phoneNumber": "4697371616"
+            },
+            "statusCode": "0"
+        },
+        {
+            "phoneTypeCode": "BusinessFax",
+            "preferredIndicator": "0",
+            "extension": {
+                "phoneNumber": "4697371684"
+            }
+        }
+    ],
+    "electronicContactPoints": [
+    	{
+            "preferredIndicator": "0"
+        },
+        {
+            "electronicContactPointTypeCode": "Business",
+            "electronicContactPointValue": "",
+            "preferredIndicator": "0",
+            "contactPointID": "382898",
+            "statusCode": "0"
+        },
+        {
+            "electronicContactPointTypeCode": "Business",
+            "electronicContactPointValue": "pgrafmiller@dallas.nef.com",
+            "preferredIndicator": "0",
+            "contactPointID": "382898",
+            "statusCode": "0"
+        },
+        {
+            "preferredIndicator": "0"
+        },
+        {
+            "preferredIndicator": "0"
+        }
+    ]
+}

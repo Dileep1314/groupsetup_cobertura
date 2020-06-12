@@ -1,0 +1,18 @@
+{
+		"firstName": "",
+		"lastName": "",
+		"brokerCode": "",
+		"organizationName": "",
+		"businessAddress": {
+			"addressLine1": "",
+			"addressLine2": "",
+			"city": "",
+			"state": "",
+			"zipCode": ""
+		},
+		"paymentAddress": {
+			"addressLine1": "",
+			"addressLine2": ""
+		},
+		"compensableCode": ""
+	}

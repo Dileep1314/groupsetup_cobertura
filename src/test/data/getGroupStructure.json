@@ -1,0 +1,22 @@
+
+[{
+	"classDetails": {
+		"className": "class001",
+		"rfpclassDescription": "Salaried",
+		"products": [{
+			"number": "1",
+			"name": "Basic Term Life Insurance",
+			"typeCode": "100",
+			"nameCode": "105",
+			"nameCategoryCode": [],
+			"extension": {
+				"startDate": "",
+				"endDate": "",
+				"processDate": "",
+				"effectiveDate": "01/31/2018"
+			}
+		}]
+
+	}
+}]
+

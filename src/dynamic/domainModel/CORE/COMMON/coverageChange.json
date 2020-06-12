@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+  	"number": {
+      "type": "string"
+    },
+    "typeCode": {
+      "type": "string",
+      "enum": ["100","101"]
+    },
+    "changeTypeCode": {
+      "type": "string",
+      "enum": ["301","302","303","304"]
+    },
+   "coveredAmount": {
+         "$ref": "file:${deploy.path}/src/dynamic/domainModel/CORE/COMMON/amount.json"
+        },
+    "modalPremium": {
+      "$ref":  "file:${deploy.path}/src/dynamic/domainModel/CORE/COMMON/modalPremium.json"
+      },
+    "benefitPercentage": {
+      "type": "string"
+    }
+      
+},
+"required":["changeTypeCode","coveredAmount"]
+}

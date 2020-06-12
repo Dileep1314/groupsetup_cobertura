@@ -1,0 +1,17 @@
+apply plugin: "jacoco"
+
+jacoco {
+  toolVersion = '0.7.0.201403182114'
+}
+
+jacocoTestReport {
+  group = "reporting"
+  description = "Generate Jacoco coverage reports after running tests."
+  reports {
+	xml.enabled true
+	html.enabled true
+	csv.enabled false
+	html.destination "${buildDir}/jacocoHtml"
+  }
+  sourceDirectories = fileTree(dir: 'src/dynamic/workflow')
+}

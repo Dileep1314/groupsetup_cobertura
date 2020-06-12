@@ -1,0 +1,16 @@
+{ "templateId":"14051136",
+"toAddress": "jhansi.uramala@metlife.com",
+"ccAddress": "jhansi.uramala@metlife.com",
+"subject": "Licensing Not Active",
+"messageBody": {
+"extension": {
+"brokerId": "1234",
+"groupNumber": ""
+
+},
+
+"messageContent": ""
+
+}
+
+} 

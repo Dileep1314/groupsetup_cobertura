@@ -1,0 +1,813 @@
+{
+	"item": {
+		"groupName": "SIVAADDCOV",
+		"groupNumber": "6501515",
+		"licensingCompensableCode": {
+			"writingProducers": []
+		},
+		"clientInfo": {
+			"basicInfo": {
+				"isLegalGroupNameDifferent": "",
+				"doingBusinessAs": "DBA",
+				"effectiveDate": "02/21/2020",
+				"primaryAddress": {
+					"addressLine1": "101 Metlife way",
+					"city": "California",
+					"state": "CA",
+					"zip": "90001",
+					"situsState": "CA"
+				},
+				"correspondenceAddress": {
+					"addressLine1": "101 Metlife way",
+					"city": "California",
+					"state": "CA",
+					"zip": "90001"
+				}
+			},
+			"erisa": {
+				"policyCoveredUnderSection125": []
+			}
+		},
+		"comissionAcknowledgement": [],
+		"renewalNotificationPeriod": [],
+		"groupStructure": {
+			"classDefinition": [
+				{
+					"mode": "UPDATE",
+					"existingClassName": "0002",
+					"billClassID": "0002",
+					"existingClassDescription": "All Active Full-TimePhysicians",
+					"newClassName": "",
+					"newClassDescription": "All Active Full-TimePhysicians",
+					"classStatus": "Issued",
+					"effectiveDate": "02/21/2020",
+					"rfpID": "R338014",
+					"products": [
+						"BSCL",
+						"DPPO",
+						"VIS"
+					],
+					"classDescription": {
+						"jobTitle": [
+							{
+								"title": "Physicians",
+								"isChecked": true
+							}
+						],
+						"customDescription": "No"
+					},
+					"productDetails": [
+						{
+							"productName": "BSCL",
+							"productStatus": "Issued",
+							"rfp": "R338014",
+							"rfptype": "NEWBUSINESS",
+							"planDescription": "",
+							"provisions": [
+								{
+									"provisionName": "HOURSWORKED",
+									"provisionValue": "25",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "COVERAGEAMOUNT",
+									"provisionValue": "1000",
+									"grouping": "CASERIDERS",
+									"qualifier": "LessThan6Months",
+									"coverageTypeCT": "BDEPLC"
+								},
+								{
+									"provisionName": "COVERAGEAMOUNT",
+									"provisionValue": "2500",
+									"grouping": "CASERIDERS",
+									"qualifier": "GreaterThan6Months",
+									"coverageTypeCT": "BDEPLC"
+								},
+								{
+									"provisionName": "MAXBENEFITAMOUNT",
+									"provisionValue": "20000",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "PADD"
+								},
+								{
+									"provisionName": "MAXBENEFITAMOUNT",
+									"provisionValue": "20000",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "100",
+									"grouping": "CASEOTHER",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "100",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "PADD"
+								},
+								{
+									"provisionName": "DEFINITIONOFEARNINGS",
+									"provisionValue": "BasicMonthlyEarnings",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "PADD"
+								},
+								{
+									"provisionName": "AVERAGECOMMISSIONBONUS",
+									"provisionValue": "12",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "PADD"
+								},
+								{
+									"provisionName": "COVERAGEBASIS",
+									"provisionValue": "FLATAMOUNT",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLC"
+								},
+								{
+									"provisionName": "COVERAGEBASIS",
+									"provisionValue": "FLATAMOUNT",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLS"
+								},
+								{
+									"provisionName": "DEFINITIONOFEARNINGS",
+									"provisionValue": "BasicMonthlyEarnings+CommissionsAndBonuses",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "COVERAGEAMOUNT",
+									"provisionValue": "5000",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLS"
+								},
+								{
+									"provisionName": "MAXBENEFITAMOUNT",
+									"provisionValue": "2500",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLC"
+								},
+								{
+									"provisionName": "MAXBENEFITAMOUNT",
+									"provisionValue": "5000",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLS"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "100",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLC"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "100",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLS"
+								},
+								{
+									"provisionName": "AVERAGECOMMISSIONBONUS",
+									"provisionValue": "36",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIOD",
+									"provisionValue": "12",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIODUNIT",
+									"provisionValue": "Days",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "COVERAGEBASIS",
+									"provisionValue": "FLATAMOUNT",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "PADD"
+								},
+								{
+									"provisionName": "COVERAGEBASIS",
+									"provisionValue": "FLATAMOUNT",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "COVERAGEAMOUNT",
+									"provisionValue": "20000",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								}
+							],
+							"choice": ""
+						},
+						{
+							"productName": "DPPO",
+							"productStatus": "NotTakenUp",
+							"rfp": "R338014",
+							"rfptype": "NEWBUSINESS",
+							"planDescription": "",
+							"provisions": [
+								{
+									"provisionName": "HOURSWORKED",
+									"provisionValue": "25",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "ELIGIBLEWAITPERIOD",
+									"provisionValue": "0",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIOD",
+									"provisionValue": "12",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIODUNIT",
+									"provisionValue": "Days",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "0",
+									"grouping": "CASEOTHER",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								}
+							],
+							"choice": ""
+						},
+						{
+							"productName": "VIS",
+							"productStatus": "Pending for Issue",
+							"rfp": "R341001",
+							"rfptype": "ADDPRODUCT",
+							"planDescription": "Class1-Custom Plan A",
+							"provisions": [
+								{
+									"provisionName": "HOURSWORKED",
+									"provisionValue": "40",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIOD",
+									"provisionValue": "0",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIODUNIT",
+									"provisionValue": "Days",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "90",
+									"grouping": "CASEOTHER",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								}
+							],
+							"choice": ""
+						}
+					]
+				},
+				{
+					"mode": "UPDATE",
+					"existingClassName": "Class1",
+					"billClassID": "0003",
+					"existingClassDescription": "All Active Full-Time Class1",
+					"newClassName": "",
+					"newClassDescription": "All Active Full-Time Class1",
+					"classStatus": "Issued",
+					"effectiveDate": "02/21/2020",
+					"rfpID": "R341001",
+					"products": [
+						"VIS"
+					],
+					"classDescription": {
+						"jobTitle": [],
+						"customDescription": "No"
+					},
+					"productDetails": [
+						{
+							"productName": "VIS",
+							"productStatus": "Pending for Issue",
+							"rfp": "R341001",
+							"rfptype": "ADDPRODUCT",
+							"planDescription": "Class1-Custom Plan A",
+							"provisions": [
+								{
+									"provisionName": "HOURSWORKED",
+									"provisionValue": "40",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIOD",
+									"provisionValue": "0",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIODUNIT",
+									"provisionValue": "Days",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "90",
+									"grouping": "CASEOTHER",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								}
+							],
+							"choice": ""
+						}
+					]
+				},
+				{
+					"mode": "UPDATE",
+					"existingClassName": "0001",
+					"billClassID": "0001",
+					"existingClassDescription": "All Active Full-TimeOwners",
+					"newClassName": "",
+					"newClassDescription": "All Active Full-TimeOwners",
+					"classStatus": "NotTakenUp",
+					"effectiveDate": "02/21/2020",
+					"rfpID": "R338014",
+					"products": [
+						"BSCL",
+						"DPPO"
+					],
+					"classDescription": {
+						"jobTitle": [
+							{
+								"title": "Owners",
+								"isChecked": true
+							}
+						],
+						"customDescription": "No"
+					},
+					"productDetails": [
+						{
+							"productName": "BSCL",
+							"productStatus": "Issued",
+							"rfp": "R338014",
+							"rfptype": "NEWBUSINESS",
+							"planDescription": "",
+							"provisions": [
+								{
+									"provisionName": "HOURSWORKED",
+									"provisionValue": "36",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "COVERAGEAMOUNT",
+									"provisionValue": "1000",
+									"grouping": "CASERIDERS",
+									"qualifier": "LessThan6Months",
+									"coverageTypeCT": "BDEPLC"
+								},
+								{
+									"provisionName": "COVERAGEAMOUNT",
+									"provisionValue": "2500",
+									"grouping": "CASERIDERS",
+									"qualifier": "GreaterThan6Months",
+									"coverageTypeCT": "BDEPLC"
+								},
+								{
+									"provisionName": "MAXBENEFITAMOUNT",
+									"provisionValue": "20000",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "PADD"
+								},
+								{
+									"provisionName": "MAXBENEFITAMOUNT",
+									"provisionValue": "20000",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "100",
+									"grouping": "CASEOTHER",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "100",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "PADD"
+								},
+								{
+									"provisionName": "DEFINITIONOFEARNINGS",
+									"provisionValue": "BasicMonthlyEarnings",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "PADD"
+								},
+								{
+									"provisionName": "AVERAGECOMMISSIONBONUS",
+									"provisionValue": "12",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "PADD"
+								},
+								{
+									"provisionName": "COVERAGEBASIS",
+									"provisionValue": "FLATAMOUNT",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLC"
+								},
+								{
+									"provisionName": "COVERAGEBASIS",
+									"provisionValue": "FLATAMOUNT",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLS"
+								},
+								{
+									"provisionName": "DEFINITIONOFEARNINGS",
+									"provisionValue": "BasicMonthlyEarnings+CommissionsAndBonuses",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "COVERAGEAMOUNT",
+									"provisionValue": "5000",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLS"
+								},
+								{
+									"provisionName": "MAXBENEFITAMOUNT",
+									"provisionValue": "2500",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLC"
+								},
+								{
+									"provisionName": "MAXBENEFITAMOUNT",
+									"provisionValue": "5000",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLS"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "100",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLC"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "100",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "BDEPLS"
+								},
+								{
+									"provisionName": "AVERAGECOMMISSIONBONUS",
+									"provisionValue": "24",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIOD",
+									"provisionValue": "12",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIODUNIT",
+									"provisionValue": "Days",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "COVERAGEBASIS",
+									"provisionValue": "FLATAMOUNT",
+									"grouping": "CASERIDERS",
+									"qualifier": "*",
+									"coverageTypeCT": "PADD"
+								},
+								{
+									"provisionName": "COVERAGEBASIS",
+									"provisionValue": "FLATAMOUNT",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "COVERAGEAMOUNT",
+									"provisionValue": "20000",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								}
+							],
+							"choice": ""
+						},
+						{
+							"productName": "DPPO",
+							"productStatus": "Issued",
+							"rfp": "R338014",
+							"rfptype": "NEWBUSINESS",
+							"planDescription": "",
+							"provisions": [
+								{
+									"provisionName": "HOURSWORKED",
+									"provisionValue": "36",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "ELIGIBLEWAITPERIOD",
+									"provisionValue": "0",
+									"grouping": "CASEBASE",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIOD",
+									"provisionValue": "12",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUTUREEMPLOYEEWAITINGPERIODUNIT",
+									"provisionValue": "Days",
+									"grouping": "BENEFITS",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								},
+								{
+									"provisionName": "FUNDINGSHARINGAMOUNT",
+									"provisionValue": "0",
+									"grouping": "CASEOTHER",
+									"qualifier": "*",
+									"coverageTypeCT": "*"
+								}
+							],
+							"choice": ""
+						}
+					]
+				}
+			],
+			"subGroup": [
+				{
+					"subGroupNumber": "65015150001",
+					"subGroupEffectivedate": "02/21/2020",
+					"subGroupTerminationDate": "12/31/9999",
+					"subGroupStatus": "Active",
+					"buildCaseStructure": {
+						"contacts": [
+							{
+								"email": "addcov@email.com",
+								"firstName": "ADDCOV",
+								"lastName": "BENEFIT",
+								"workPhone": "463-625-7436",
+								"cellPhone": "463-625-7436",
+								"roleTypes": [
+									{
+										"roleType": "Benefit Administrator",
+										"roleUniqueId": "6501515100",
+										"clientId": "1350043"
+									}
+								]
+							}
+						],
+						"location": {
+							"isTaxIdSameAsPrimary": "Yes",
+							"taxId": "564354375",
+							"isPrimaryAddress": "No",
+							"locationName": "ALASKA",
+							"addressLine1": "ALASKA",
+							"addressLine2": "",
+							"city": "ALASKA",
+							"state": "AK",
+							"zipCode": "90907",
+							"activeParticipants": "Yes"
+						},
+						"entityAddress": {
+							"addressLine1": "101 Metlife way",
+							"addressLine2": "",
+							"city": "California",
+							"state": "CA",
+							"zipCode": "90001"
+						},
+						"departments": [
+							{
+								"departmentDescription": "TESTING",
+								"departmentCode": "1008"
+							},
+							{
+								"departmentDescription": "DEVELOPMENT",
+								"departmentCode": "1005"
+							}
+						]
+					},
+					"assignClassLocation": [
+						{
+							"classId": "0001"
+						},
+						{
+							"classId": "0002"
+						}
+					]
+				},
+				{
+					"subGroupNumber": "65015150002",
+					"subGroupEffectivedate": "02/21/2020",
+					"subGroupTerminationDate": "12/31/9999",
+					"subGroupStatus": "Terminated",
+					"buildCaseStructure": {
+						"contacts": [
+							{
+								"email": "Addcov@email.com",
+								"firstName": "ADDCOV",
+								"lastName": "CLAIMSCON",
+								"workPhone": "634-563-2576",
+								"cellPhone": "634-563-2576",
+								"roleTypes": [
+									{
+										"roleType": "Claims Contact",
+										"roleUniqueId": "6501515100",
+										"clientId": "1350045"
+									}
+								]
+							}
+						],
+						"location": {
+							"isTaxIdSameAsPrimary": "Yes",
+							"taxId": "564354375",
+							"isPrimaryAddress": "No",
+							"locationName": "ALABAMA",
+							"addressLine1": "ALABAMA",
+							"addressLine2": "",
+							"city": "ALABAMA",
+							"state": "AL",
+							"zipCode": "70755",
+							"activeParticipants": "Yes"
+						},
+						"entityAddress": {
+							"addressLine1": "101 Metlife way",
+							"addressLine2": "",
+							"city": "California",
+							"state": "CA",
+							"zipCode": "90001"
+						},
+						"departments": [
+							{
+								"departmentDescription": "TESTING",
+								"departmentCode": "1008"
+							},
+							{
+								"departmentDescription": "DEVELOPMENT",
+								"departmentCode": "1005"
+							}
+						]
+					},
+					"assignClassLocation": [
+						{
+							"classId": "0002"
+						},
+						{
+							"classId": "0001"
+						}
+					]
+				},
+				{
+					"subGroupNumber": "6501515",
+					"subGroupEffectivedate": "02/21/2020",
+					"subGroupTerminationDate": "12/31/9999",
+					"subGroupStatus": "NotTakenUp",
+					"buildCaseStructure": {
+						"contacts": [
+							{
+								"email": "sviswabarathi@metlife.com",
+								"firstName": "ADDCOVERAGE",
+								"lastName": "SIVA",
+								"workPhone": "645-632-4563",
+								"cellPhone": "645-632-4563",
+								"roleTypes": [
+									{
+										"roleType": "Executive Contact",
+										"roleUniqueId": "6501515100",
+										"clientId": "1350041"
+									}
+								]
+							}
+						],
+						"location": {
+							"isTaxIdSameAsPrimary": "No",
+							"taxId": "564354375",
+							"isPrimaryAddress": "Yes",
+							"locationName": "SIVAADDCOV",
+							"addressLine1": "101 Metlife way",
+							"city": "California",
+							"state": "CA",
+							"zipCode": "90001",
+							"activeParticipants": "Yes"
+						},
+						"entityAddress": {
+							"addressLine1": "101 Metlife way",
+							"city": "California",
+							"state": "CA",
+							"zipCode": "90001"
+						},
+						"departments": [
+							{
+								"departmentDescription": "DEVELOPMENT",
+								"departmentCode": "1005"
+							},
+							{
+								"departmentDescription": "TESTING",
+								"departmentCode": "1008"
+							}
+						]
+					},
+					"assignClassLocation": [
+						{
+							"classId": "0001"
+						},
+						{
+							"classId": "0002"
+						}
+					]
+				}
+			]
+		},
+		"billing": {
+			"deliveryMethod": "EMAIL",
+			"billType": "LISTBILL",
+			"paymentMode": "Pay Offline"
+		},
+		"HIPAA": {
+			"authorizationRequest": {
+				"employeeTitle": []
+			},
+			"hipaaQuestions": []
+		}
+	}
+}

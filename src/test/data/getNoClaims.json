@@ -1,0 +1,15 @@
+{
+  "item": {
+    "_id": "string",
+    "groupNumber": "string",
+    "claimsIncurred": "string",
+    "claimInformation": [
+      {
+        "product": "string",
+        "dateofClaim": "string",
+        "natureofClaim": "string",
+        "additionalComments": "string"
+      }
+    ]
+  }
+}

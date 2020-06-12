@@ -1,0 +1,225 @@
+{
+   "licensingCompensableCode": {"writingProducers": []},
+   "clientInfo":    {
+      "basicInfo":       {
+         "isLegalGroupNameDifferent": "",
+         "legalGroupName": "",
+         "doingBusinessAs": "",
+         "effectiveDate": "08/01/2019",
+         "primaryAddress":          {
+            "addressLine1": "California, USA",
+            "addressLine2": "11",
+            "city": "CA",
+            "state": "California",
+            "zip": "90001",
+            "situsState": "CA"
+         },
+         "correspondenceAddress": {}
+      },
+      "erisa": {"policyCoveredUnderSection125": []}
+   },
+   "comissionAcknowledgement": [{"brokerDetails":    {
+      "brokerId": "3162818",
+      "brokerCode": "3162818",
+      "channelType": "Internal",
+      "splitPct": "0.0",
+      "agentType": "Sales Representative"
+   }}],
+   "renewalNotificationPeriod": [],
+   "groupStructure":    {
+      "classDefinition":       [
+                  {
+            "mode": "UPDATE",
+            "existingClassName": "Class2",
+            "existingClassDescription": "All Active Full-Time Salaried Employees",
+            "newClassName": "",
+            "newClassDescription": "All Active Full-Time Salaried Employees",
+            "products":             [
+               "DHMO",
+               "DPPO"
+            ],
+            "classDescription":             {
+               "jobTitle": [               {
+                  "title": "Salaried Employees",
+                  "isChecked": true
+               }],
+               "customDescription": "No"
+            },
+            "productDetails": []
+         },
+                  {
+            "mode": "UPDATE",
+            "existingClassName": "Class1",
+            "existingClassDescription": "All Active Part-Time Employees",
+            "newClassName": "",
+            "newClassDescription": "All Active Part-Time Employees",
+            "products": [],
+            "classDescription":             {
+               "jobTitle": [               {
+                  "title": "All Active Part-Time Employees",
+                  "isChecked": true
+               }],
+               "customDescription": "No"
+            },
+            "productDetails": []
+         }
+      ],
+      "subGroup":       [
+                  {
+            "subGroupNumber": "65132240001",
+            "subGroupEffectivedate": "08/01/2019",
+            "subGroupStatus": "",
+            "buildCaseStructure":             {
+               "contacts": [               {
+                  "email": "sviswabarathi@metlife.com",
+                  "firstName": "RAM",
+                  "lastName": "RAM",
+                  "workPhone": "843-286-2587",
+                  "cellPhone": "843-286-2587",
+                  "roleTypes": [                  {
+                     "roleType": "Executive Contact",
+                     "roleUniqueId": "6513224100"
+                  }]
+               }],
+               "location":                {
+                  "isTaxIdSameAsPrimary": "",
+                  "taxId": "",
+                  "isPrimaryAddress": "Yes",
+                  "locationName": "siva",
+                  "addressLine1": "California, USA",
+                  "addressLine2": "11",
+                  "city": "CA",
+                  "state": "California",
+                  "zipCode": "90001",
+                  "activeParticipants": "Yes",
+                  "isPrimaryAddressUpdated": "Yes"
+               },
+               "entityAddress":                {
+                  "addressLine1": "New",
+                  "addressLine2": "",
+                  "city": "New York",
+                  "state": "New York",
+                  "zipCode": "10119"
+               },
+               "departments":                [
+                                    {
+                     "departmentDescription": "Testing",
+                     "departmentCode": "1008"
+                  },
+                                    {
+                     "departmentDescription": "Testing",
+                     "departmentCode": "1008"
+                  },
+                                    {
+                     "departmentDescription": "Testing",
+                     "departmentCode": "1008"
+                  },
+                                    {
+                     "departmentDescription": "Testing",
+                     "departmentCode": "1008"
+                  }
+               ]
+            },
+            "assignClassLocation": [{"classId": "Class2"}]
+         },
+                  {
+            "subGroupNumber": "6513224",
+            "subGroupEffectivedate": "08/01/2019",
+            "subGroupStatus": "",
+            "buildCaseStructure":             {
+               "contacts":                [
+                                    {
+                     "email": "sviswabarathi@metlife.com",
+                     "firstName": "siva",
+                     "lastName": "Viswa",
+                     "workPhone": "643-245-6587",
+                     "cellPhone": "643-245-6587",
+                     "roleTypes": [                     {
+                        "roleType": "Benefit Administrator",
+                        "roleUniqueId": "6513224100"
+                     }]
+                  },
+                                    {
+                     "email": "sviswabarathi@metlife.com",
+                     "firstName": "RAM",
+                     "lastName": "RAM",
+                     "workPhone": "334-444-4444",
+                     "cellPhone": "334-444-4444",
+                     "roleTypes": [                     {
+                        "roleType": "Executive Contact",
+                        "roleUniqueId": "6513224100"
+                     }]
+                  },
+                                    {
+                     "email": "sviswabarathi@metlife.com",
+                     "firstName": "siva",
+                     "lastName": "Viswa",
+                     "workPhone": "643-245-6587",
+                     "cellPhone": "643-245-6587",
+                     "roleTypes": [                     {
+                        "roleType": "Benefit Administrator",
+                        "roleUniqueId": "6513224100"
+                     }]
+                  }
+               ],
+               "location":                {
+                  "isTaxIdSameAsPrimary": "No",
+                  "taxId": "",
+                  "isPrimaryAddress": "No",
+                  "locationName": "HAPPYSIVACOLTD",
+                  "addressLine1": "California, USA",
+                  "addressLine2": "",
+                  "city": "CA",
+                  "state": "California",
+                  "zipCode": "90001",
+                  "activeParticipants": "Yes"
+               },
+               "departments":                [
+                                    {
+                     "departmentDescription": "Testing",
+                     "departmentCode": "1008"
+                  },
+                                    {
+                     "departmentDescription": "",
+                     "departmentCode": ""
+                  },
+                                    {
+                     "departmentDescription": "Testing",
+                     "departmentCode": "1008"
+                  },
+                                    {
+                     "departmentDescription": "Testing",
+                     "departmentCode": "1008"
+                  },
+                                    {
+                     "departmentDescription": "Testing",
+                     "departmentCode": "1008"
+                  },
+                                    {
+                     "departmentDescription": "All Departments",
+                     "departmentCode": "DEP6513224"
+                  },
+                                    {
+                     "departmentDescription": "",
+                     "departmentCode": ""
+                  },
+                                    {
+                     "departmentDescription": "Testing",
+                     "departmentCode": "1008"
+                  }
+               ]
+            },
+            "assignClassLocation": [{"classId": "Class2"}]
+         }
+      ]
+   },
+   "billing":    {
+      "deliveryMethod": "EMAIL",
+      "billType": "LISTBILL",
+      "paymentMode": "Pay Offline"
+   },
+   "HIPAA":    {
+      "authorizationRequest": {"employeeTitle": []},
+      "hipaaQuestions": []
+   }
+}

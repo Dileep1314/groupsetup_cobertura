@@ -1,0 +1,211 @@
+{
+	"item": {
+		"_id": "string",
+		"groupNumber": "string",
+		"riskAssessment": {
+			"pregnantEmployeeDetails": {
+				"questions": [{
+						"question": "isPregnantEmployee",
+						"answer": "No",
+						"isMandatory": "string",
+						"sequenceNo": "1",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "numberOfPregnantEmployee",
+						"answer": "No",
+						"isMandatory": "string",
+						"sequenceNo": "2",
+						"listOfAllowedResponses": [
+							"any"
+						]
+					}
+				]
+			},
+			"healthRisk": {
+				"questions": [{
+						"question": "anySignificantHealthRisks",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "3",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "cardioVascularDisorder",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "4",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "strokeOrCirculatoryDisorder",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "5",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "cancerOrTumor",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "6",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "leukemiaOrBloodDisorder",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "7",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "CopdOrLungDisorder",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "8",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "stomachOrLiverDisorder",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "9",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "neurologicalDisorder",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "10",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "chronicfatigueSyndrome",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "11",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "multiplesclerosis",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "12",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "mentalDisorder",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "13",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "AIDSOrHIV",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "14",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "other",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "15",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "otherText",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "16",
+						"listOfAllowedResponses": [
+							"any"
+						]
+					}
+				]
+			},
+			"disabledEmployees": {
+				"questions": [{
+						"question": "anyDisabledEmployee",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "17",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					},
+					{
+						"question": "noOfDisabledEmployee",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "18",
+						"listOfAllowedResponses": [
+							"any"
+						]
+					},
+					{
+						"question": "haveWaiverOfPremium",
+						"answer": "string",
+						"isMandatory": "string",
+						"sequenceNo": "19",
+						"listOfAllowedResponses": [
+							"Yes",
+							"No"
+						]
+					}
+				],
+				"disableEmployeeDetails": [{
+					"dateOfBirth": "string",
+					"dateOfDisability": "string",
+					"natureOfClaim": "string",
+					"estimatedDateOfReturn": "string",
+					"BenefitAmount": "string"
+				}]
+			}
+		}
+	}
+}

@@ -1,0 +1,13 @@
+apply plugin: "sonar-runner"
+
+sonarRunner {
+  sonarProperties {
+    property "sonar.projectName", "USER_PRODUCTS"
+    property "sonar.projectKey", "us_claimcenter_context_api"
+    property "sonar.host.url", "http://172.26.60.25:9000"
+    property "sonar.language", "grvy"
+  }
+
+  toolVersion = '2.3'
+}
+
