@@ -151,6 +151,7 @@ dependencies {
 }
 
 sourceSets {
+ignorefailures=true
 	main {
 		groovy { srcDirs = ['src/dynamic/workflow']}
 	}
