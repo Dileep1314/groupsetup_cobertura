@@ -8,7 +8,7 @@ apply plugin: 'spring-boot'
 apply plugin: "io.spring.dependency-management"
 apply plugin: "org.sonarqube"
 //apply from: 'codenarc.gradle'
-apply from: 'cobertura.gradle'
+//apply from: 'cobertura.gradle'
 
 buildscript {
 	repositories {
